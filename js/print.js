@@ -1,1 +1,450 @@
-const _0x343bb3=_0x15bc;(function(_0x59d2c7,_0x4fcc96){const _0x2ad7f3=_0x15bc,_0x3d8eff=_0x59d2c7();while(!![]){try{const _0x265dfc=parseInt(_0x2ad7f3(0x1c1))/(0x8a9+0x1940+0x38*-0x9b)*(parseInt(_0x2ad7f3(0x330))/(0xc41+0x29*-0xac+0xf4d*0x1))+parseInt(_0x2ad7f3(0x3a4))/(-0x1*-0x10b9+0x5ea+-0x16a0)*(-parseInt(_0x2ad7f3(0x1b4))/(0xc8f*-0x2+0x45c+0x14c6))+-parseInt(_0x2ad7f3(0x141))/(-0x200+0x10d2*-0x2+0x23a9)*(-parseInt(_0x2ad7f3(0xf1))/(-0xe1*0x2b+-0x231a+0x48eb))+-parseInt(_0x2ad7f3(0x3bd))/(0xf42+0x99e+0x18d9*-0x1)*(-parseInt(_0x2ad7f3(0x2dd))/(-0x1107+0x66f*0x5+-0xf1c))+-parseInt(_0x2ad7f3(0x407))/(0x2639+0x1e+-0x264e)*(parseInt(_0x2ad7f3(0x334))/(-0x2*-0x35b+0x1d86+-0x2432))+-parseInt(_0x2ad7f3(0x2ef))/(0x182c+0xaa+-0x18cb)+-parseInt(_0x2ad7f3(0x115))/(-0x19cc+0x1*0xa96+0xf42)*(-parseInt(_0x2ad7f3(0x2d9))/(0x2*0x97b+-0x11e5+-0x104));if(_0x265dfc===_0x4fcc96)break;else _0x3d8eff['push'](_0x3d8eff['shift']());}catch(_0x38208e){_0x3d8eff['push'](_0x3d8eff['shift']());}}}(_0x4529,0x7*-0x16087+0x640b6+0x110ca9));function _0x4529(){const _0x3c7e5a=['rxjYBYbHBYa','DwXLiJ48l2q','ohb4o2nVBg8','iJ48C3bHBJ4','oNjPz2H0o28','CgfUpITsjca','BwfYz2LU','x0jVyMLUys4','revwt0XvW4FdLq','lMnWDI1VyNm','q29TChjVDMe','rKvdsefnru4','C2L6ztOXmNa','C2u6y29SBge','Dw5PDfbYAwm','t0nvtuvove8','BNrLigrLiem','ChqTqLi','iJ5nB3rPDM8','phn0EwXLpG','EcbZB2XPzca','uIqG','yw50o2nVBg8','oJyWChG7zM8','DgqUA3TIywm','lMnWDI1Hnc0','AgLKzgvU','zwvU','y2XHC3noyw0','BJ5sjca','Dc13zwLNAhq','pgjYpKnHBMm','D2LKDgG6mh0','pJXZCgfUpLi','Axy+','CdPICMvHAY0','ica8zgL2igm','ntTMB250lxm','B3bLBG','mda7Dgv4Dc0','CM5Ly2vKB3i','D2LKDgG6mta','DI10B3rHBc0','zw0TBgLUzsa','ignVBhnWyw4','DgvTiJ4kica','re9dvu1ftLq','zMLZy2fSlJW','idXKAxyGy2W','CM92yw50zsa','yM9IAw5H','AwDHzg8GCgu','pc90zd48l3q','BI10B3a6mti','Axy+phnWyw4','yY5IB2jPBMe','B3qIpKrVy3u','y29UDgvUDfC','yxjNAw4TDg8','yM9IAw5Hic4','pgrPDJ48C3a','CxvHBNrPDhK','DgvYo21HCMC','ienVBxbYyxm','cI5JChyTzg8','zwXHzg8GCg8','y3b2lw1LDge','zxiSBw9UB3m','Bwv0B2rVrgu','zMXVDY13CMe','BgvUz3rO','CgL4','mtjWEh0klMm','icHqAxGP','CgrMx2nUCgO','AhrTBcbSyw4','oImXrJm3nKi','ytqTB2jZiJ4','CJOG','y2nLzgLSoYy','u29Tzw50zsa','DMfSB3jfC3q','zw0TBMfTzsi','DI1KB2mUyM8','yMXLE3DPzhq','tIzbDgLSzgu','zgu7BYaMzwe','BwL0iJ5fBwK','ywXdyw5JzwW','DdOXlJq7B3y','CJTMB250lxm','yxa6ohb4o20','Dg9eyxrHvvi','BguGDgqUDge','qxrPDMfKyq','AgvHzd4kica','E2zVBNqTD2u','ignVBxbYB3y','twv0ywWGtwK','i0yZrJrgnJS','ihn0EwXLpsi','zd48DgqGy28','ChG7zM9UDc0','B3jKlwjYzwe','lxrVDgfSihm','DwuGC3vHigm','z2v0sxrLBq','ChjPBNq','C2nYB2XSv2K','EMu6oxb4o2m','Dg9WoJzWEdS','AwXK','ysbJB21WCMe','CJ5dB21Wify','nZuXnZqXoxfjC1jYza','icaGicaGpgq','mtfWEdTJB2W','BMvYlcaUy3a','mZa2ngX5A1fwza','zM9YBwf0','zwz0FqOUy3a','Aw5Uzxjive0','zgL2ignSyxm','qN0klMnWDI0','Dgv4DenVBNq','BNqTD2vPz2G','mJiYFqOUy3a','yM9KExTTyxi','B3jTyxqTB3a','BtOG','lwfSAwDUoMm','icaGpgrPDIa','oIngoezbrKm','AM9PBG','qg1LzgLHiha','Bg9YoImXmte','mtC2mtG3ntvJquPbs0C','B2XVCJOJmda','D3jHCdPICMu','zgL2E2rPC3a','DI1PDgvTic4','DJ48C3bHBJ4','igvTia','AdOYnZbWEh0','AwzYyw1L','DJ48C3bHBIa','CMfZpc9KAxy','BMHLAxjVktW','AdOWFqOUy3a','BJOWo3bHzgq','lw5HBwv7zM8','DgvYlxnWywm','ufjbpc9KAxy','Aw50zxjUywW','EdTJB2XVCJO','igrVyY48l3m','ChGGohb4o2y','zsWGC2uGCxu','CMLUAZOWo3C','y29SB3i6i0i','C3r5Bgu','l3rOpJX0Aca','ChjPBNrnB2q','mNb4o2zVBNq','pc9KAxy+cIa','nZaWo3rLEhq','AwXKE2zSzxG','lNbYAw50lwy','lxrPDgXLiJ4','zdT3B3jKlwi','ve8GreuGq0e','DgLMEs1JB24','B3r7BwfYz2K','BNqTC2L6ztO','yCoNW6nVigrVia','zM9UDc1ZAxO','DI1ZDwiIpG','cIaGicaGidW','lxrHyMXLiJ4','EhqTywXPz24','zs13CMfWFqO','rIbUW6nVignH','DwnLC3nV','B2jZiJ5pyNm','CM91BMq','ChjVzhvJDe4','zhTMBgv4oJe','y2TNCM91BMq','C3m9iMnWDI0','oMzPEgvKo3i','ideYChG7yMe','CMfWoMjYzwe','otK7BwfYz2K','icaGica8Dhi','pc9OzwfKpJW','AgfTzw50BYa','lxrVCdOXChG','AxrLBxm','uergigDLCMe','C3m9iMSIpLa','ys1YiJ5rDgq','ntK0tw5uzKTU','BgLUzxn7Bwe','igrLienVBxa','pg1LDgeGy2G','mtbkz2nyAxe','C2f2zq','BMqIpG','Dg9WoJrWEdS','CMLUDhTaCge','rMvJAgfKBW','x2zVCM1HDa','zNvUy3rPB24','BgLUzxmIpJW','lMjVyMLUysa','icaGicaGphq','yMLUysaUy3a','yM9KEq','ztOXm3b4o2y','BMeGlMnWDI0','B3jKzxiTy28','ywjLCNr1CMe','AZOWo3DOAxq','pGOGicaGica','zxH0lwfSAwC','ChGGnNb4o2y','Ahr9cI5JChy','y3jLyxrLswm','CIzLy2LYyZS','B25NpKnVBxa','lhnHBNmTC2u','z2v0q29UDgu','AZTIB3jKzxi','Dgq+pgrPDIa','idWVDgjVzhK','DI10AxrSzsi','zg9JlMe0ic4','C3qTy2HPBgq','o2zVBNqTC2K','DgfUDh0klMm','mcaWigf1Dg8','E2zVBNqTC2K','ktWVC3bHBJ4','cIaGica8zgK','BM90zxm','CgfUpLiKia','icaGia','B2mUyM9IAw4','yw5Klxn1yIi','otfdmum7Dgu','B25Z','icaGicaGidW','Dgq+','ihnVBgLKicm','u3vWCMLTzw4','zM9UDc13zwK','ic5KB2mTDge','zMXLEc1ZAhi','BMD7zM9UDc0','icaGicaGica','ignSyxnZpsi','AwXKztTpicy','E2H0BwWSyM8','psjJChyTC2K','ztTVpc9ZCge','B2jPBMeSic4','DgLKBYbLBtO','D2LKDgG6nZy','ihnWyw46zMK','ChjPBNqTChi','oMXHC3qTy2G','vgv4Da','DgGSlMnWDI0','DI1UB3rLiJ4','ChjPBwLYig8','zgL2pJXZCge','z2LUoJa7yMe','l3rKpJX0zd4','B3rHBhTKAxm','pcfet0nuwva','iJ48AgvHzd4','zgfZAdSGu2K','CJOJmuyZnZy','yw5UzxiIpKq','iJ5qywDHBwu','yNjHBMqTC3u','BxbYysaJ','B3a6nNb4FqO','EdTQDxn0Awy','CZ0Iy3b2lwu','C2v0sxrLBq','Cgf5BwvUDe0','zwDPC3rYywq','CgrMx2nVBxa','Dw5KzwzPBMu','z246y2vUDgu','y2XHC3m9iNq','lwzVB3qIpKu','zgvUoW','Dgv4Dc1HBgK','kNTJB2XVCJO','CM9UzZ5pyNi','q29TChjHihi','ywrK','DMLLD09UBhK','Aw5NoJfWEh0','ihjLy2fYCMu','DI1KB2n7y28','DI1KB2mUytq','CI1JB2XSyxa','yxbZztPJB2W','E2zSzxGTC2G','DgG6mdTVDMu','zgf0zq','Dg9mB2nHBgu','BNrVpc9ZCge','lxDLAwDODdO','mJm3ouTstLb4yq','Aw50E2H0BwW','zxnZB2e8l3q','nhb4o21PBI0','zgvYoJfWEca','y3b2lwXIiJ4','re88l2rPDJ4','ywrKugfNzq','qurpkG','AxrSzt5dB20','oI0XChGGmca','jMD0oW','zMLUza','EMu6mtfWEdS','C3bSyxK6zMW','Bwf4','psjJChyTAxq','pc90zd48Dgq','Dg9Zpc9ZCge','Dh0klMnWDI0','DI1KB2mGlMm','o21HCMDPBJO','BMfZ','mxb4o2nVBg8','Bwf4v2LKDgG','mtmXntnLshPluNK','B3uGqtqU','ywXuAxrSzq','l2rPDJ48l2q','pc90zd4kica','icaGicaG','yxTTyxGTD2K','pc90Ad48DgG','y2HPBgr7zMW','o2XPBMuTAgu','zxG7ANvZDgK','Eca4ChG7zM8','nKi7Dgv4Dc0','ChjVDMfUDgu','DgG6mh0klMm','DMfZ','m30klMnWDI0','Dg90ywXqCMK','t01quKftieq','CMDPBI1IB3q','y3v0ztSGzg8','jNf1B3q7','mtfWEdT0zxG','iJ5ezxzVBhu','CNvSzsi+pc8','ic5JChyTAxq','mJK3Bw07Bwe','DI1Jyw5JzwW','yw1L','z2LUlxrVCdO','BcbZCgfUoMy','igLUAwnPywW','lIaJ','CMvTB3zLq2G','mdb9cI5JChy','yY10ywjSzsa','lNbKzG','ChjPBNrqCMu','CgrM','pKnVBxbYysa','tvbst1zbtLq','iczTAwrKB3q','B2XVCJOJntu','B2XVCJOJndq','Dc1HBgLNBJO','AZPICMvHAY0','zg9JicP7yM8','pLiKia','mcbHDxrVo3a','mtaWjtTIB3i','icPdqu5druW','yw5KE2zVBNq','DIa+ihnWyw4','y3b2lwe0lxq','yxnZpsjKB2m','yw46BgfZDc0','y3b2lwrVyY4','ifnPC3rLBwe','y29TChjVDMe','DI1Hnc1Tzxq','idXKAxy+phm','oJeYChH9cI4','qsbtrvntjKe','oMfIC29SDxq','rgLUAgvPCM8','l2H0BwW+','z3vLigeGCmoH','pc9KAxy+pgq','u0nbtdWVzgK','EMu6mtnWEdS','BJ4J','ywjLCNrV','rsbersbdt00','ztOXmxb4o20','mtaYnta1ntLOEMDfvMe','ifzPC2LVBJW','o2nVBg9YoIm','uhjVzhv0BZW','yw4+phnWyw4','zsbZCgfUoMy','y3vTzw50BYa','DgfSiJ48C3a','ChjPBNrgCMe','zw1LBNq','B3rPBgrLo2u','ywXPz246y2u','zgvYlwnVBgW','psjJChyTzM8','CMvHAY13B3i','iZzcnZi4mdS','psjJChyTCNu','mdT2AxnPyMK','Aw46mcbHDxq','yxnLBgLUztS','BMnLBc1Iyw4','ienptvbsqtW','CMvWBgfJzq','lMe0ic5JChy','z2v0sgvPz2G','z2v0rwXLBwu','C3bHBJPSyxm','pIbZCgfUoMy','DdPZCgfJzs0','DgvTlwXPBMu','CMfWo292zxi','Bw90AxzV','zw50','Dc1Myw1PBhK','ChjPBNrcB2i','Dgu7ierpq1u','EdT3AgL0zs0','zxr3zwvUo2C','zNr9cI5JChy','AwDODa','jMX0oW','Aw5HvgLW','z2v0v2LKDgG','mtbWEdTMB24','yY5HncaUy3a','AgL0zs1ZCge','Ahq6nZaWo20','oMjVCMrLCI0','zhL7BwfYz2K','CgfUpJXZCge','Aw5KzxG6lte','BguIpJWVzgK','B290iJ48C3q','pgjYpJXZDhi','CMeGiW','CgvZC29HtMe','AwDODdOXlJu','nLPsz01vwG','ywrKsw1Hz2u','Bgf5oMzSzxG','y2fUy2vSlwi','DYCSq291CMK','DgvUDdPZCge','CgfNzvnPEMu','Eh0klMnWDI0','DgfIBguGy2W','CZ0Iy3b2lwK','D2LKDgG6mJy','ic5JChyTytq','EcK8l3nWyw4','D2LKDgG','CMDPBJOWFua','zsb0zhTIB3i','lw5VDgv7Bwe','y2fUy2vSywq','BwLSEtONq28','iJ5dyw5JzwW','mxb4ihnVBgK','pgrPDIbJBge','lwvTAxr7zM8','zwX2zxrPy2e','AwDODdOWo2i','msaXigf1Dg8','iMnWDI1KB2m','BJ48C3bHBJ4','B2jPBMeGlMm','o292zxjMBg8','mhb4o3bHzgq','CNT0zxH0lwe','ic5JChyTBgK','mtvWEdTMB24','Dhi+phrKigm','CMvTB3zL','mtjxtLfbrLi','C3bHBJ4','u3rYAw5N','rdfenurco3a','yMXVy2S','Aw1WCMLTAxi','psjJChyTBM8','psjJChyTBgK','oJeXChG7BgK','zMvJAgfKB0u','igjVyMLUysa','ChyTDg90ywW','BMq6i0yZrJq','Cg9ZAxrPB24','cIaGicaGica','CMLMo2zVBNq','tYbgsvndquW','lMnWDI1KB2m','lwrVyY5Hnca','CMfUzci+','zgfZAdSG','ywDHBwvUDg8','AxrSzsi+q08','ndTSAw5LlwG','y2vUDgvYFqO','icaGidWVzgK','y2fUDMfZ','qMLIBgLVDgu','lxnPEMu6mJa','nhb4FqOUy3a','CNn0lwnOAwW','ztTSzwz0oI0','ytqTBwv0ysa','zxGTC2HYAw4','ChyTytqTBwu','zMLSDgvY','DI1Hnc1Ozwe','BgXHChnLoMm','lMjVyMLUyq','y2uTyMv0D2u','AxrLlxnWywm','mhb4oW','C3rHDhvZ','psiZiJ4','odqYodGYmev4C3bpuG','ywrKAw5NoJu','CNjLz2fKys4','zwLNAhq6ms4','lwnVBNrLBNq','yw5Klxn1yNS','BI1SAw5LiJ4','y2vPBa','Dc1ZAxPLoJe','psjJChyTBgi','yw55x25HBwu','oJzWEdTMB24','icaGica8zgK','yxjZzxq9iNu','mZTTyxjNAw4','nZaWFqOUy3a','zsbVignVBxa','BgLJFqOUy3a','idX0ywjSzsa','y2XHC3nmAxm','B3i6iZu1ntS','CJ4kicaGica','lxnPEMu6mtq','ic0G','DI1SAw5LCYa','CdO0ChH9cI4','CMvKDwnL','AxjZDc1JAgK','BwLU','DIbJBgfZCZ0','mcu7yM9Yzgu','ChjPBNreAxi','AhrTBdjJyw4','u2fSDMfY','AxyGy2XHC3m','ic5JChyTzM8','zhrOoJa7Dgu','BgLUzxmIpG','Axy+cIaGica','BM90zxTTyxi','D2vPz2H0oJG','iJ5dt01quK8','B25SB2fK','DguIpK4Mqxq','oJGWmdTJB2W','C2L6ztOXmha','Bw07BwfYz2K','D29Yzh0klMm','AgvPz2H0','CgfUignSyxm','ChyTBgiIpLm','BNrcEuLK','CdOYChGIpKm','zgL2','CZ0Iy3b2lwy','icaGidXKAxy','l2rPDJ4kica','vKfoveuGreu','lxn1yNTMB24','pc90CJ4kica','mhb4FqOUy3a','BJPJzw50zxi','Aw5NoJeWChG','nZjTBq','B3a6mtbWEdS','lgjVzhL7Bwe','o2jVCMrLCJO','BMvZiJ4kica','Dg9ToJeYChG','zgL2pG','E3DPzhrOoJC','zw0TBgLUzxS','Cg9YDgfUDdS','z2H0oJCWmdS','BwL0AwrVigu','mteXo3bHzgq','CJOJmdaWice','vMLZDwfSAxO','mca4ChG7zM8','y3b2lxrVDge','psjJChyTDg8','ztOXmNb4o3a','y3jLyxrLrwW','EMu6odbTBsa','CZ0Iy3b2lxi','iMnWDI1ZAwC','mM1To21HCMC','zwn0u3rHDhu','y2u6BM93CMe','CgfUpJWVzgK','BNq6C3bHy2u','W6FdTwvZicHKAq','ChyTytqTDgK','B3jKzxi6mNa','pGOGicaGpc8','icaGica8l2q','Bgr7zMXLEdO','ywWTy2fPEge','CxvLCNLtzwW','ywXqCMLUDei','ywSTD29Yzh0','ytr7D2LKDgG','BYbdB21Wify','y2fPEgf7zgK','DM9SDwnHBW','AxnPB24GjM0','ChyTzg9JlMe','zxmIpGOGica','i0i5mumXqZS','AxrSzt5gzwm','ywrKAw5NoJq','ChyTC2LNBI0','zM9YrwfJAa','B250lxnPEMu','Ad48DgGGy2W','ndG4me5WyLffvW','B2mGytqIpGO','nhb4o3rLEhq','lwrVyY5IB2i','AwDODdO3mda','iMnWDI1Jyw4','pc9ZCgfUpJW','zw50zxi7zM8','yIi+q05qsIa','ANnWzgy','o2zVBNqTzMe','ChyTzg9JlMi','DgyToci+phq','ntq1nhnZwKLQwq','lwe0lw5VDgu','yxbWzw5Kq2G','icaGica','CMDPBI10B3a','Bwv0ysi+q28','ywrKAw5NoJa','lwjLDhDLzw4','B3jUywrV','zgLUAgvPCM8','zhrO','DI1TzxrHiJ4','ideGyxv0BZS','psjJChyTyNi','yxnZpsjJChy','BgfZCZ0Iy3a','ihnHW61Kyxm8','qwjLCNrV','zg9JlMjVyMK','CMeGzg8GzM8','D2LKDgG6mZa','E21HCMDPBI0','BIbJBgfZCZ0','EcaWo21PBI0','pJX0zcbJBge','DgeTCIi+vg8','Dg9WoJa7yMe','x2rPCMvJDa','yNjHBMr7zM8','pLzHBg9Yifq','Bgu+cIaGica','ihnWyw46Bge','AgvHza','BwfW','AgvPz2H0oJe','DxjPzxiGtMu','BYbLBtWVC3a','A2DYB3vUzdO','ChyTyNjHBMq','B3rHBdWVC3a','Ec1ZAxPPBMC','Aw5HE3DPzhq','BwvUDg8Gz2u','icaG','yw4+rgv2B2W','oJeWmcv9Fq','BwfYz2LUlxq','ywz0zxjtyxy','ztOXmhb4o3q','yw50zt8','o08GjKvHy3u','BI10B3a6mJq','zwn0B3i','AxnLCIWGAw0','CZO8l3n0CM8','DgLVBG','B0vT','D2LKDgG6mte','zMXLEdTQDxm','yM9IAw5HicO','B21WCMeGiW','oNnWywnLlwi','C3bHBJ5sjca','zxjMBg93lxC','Aw5SAw5Llwy','lxnPz24GlMm','pJXZCgfUpLm','yxjNAw46mNa','CN0klMnWDI0','C2nYB2XSsgu','ywXPz246Bgu','oInMzMz9','phrKignSyxm','z2LUys4','phn0CM9UzZ4','lxj1BguIpJW','icaGpgrPDJ4','DJ4kicaGica','yxnOzwqGiZK','ysbJB20GC3u','ienbtKnftee','ugL4','qJTIB3jKzxi','yM9KEt4','D2vPz2H0oJC','y2fPEgeGC3a','i2zMzMzMzG','B3zLCMzSB3C','zwn0B3jbBgW','zwrPysbZy3i','DhLSztPPDge','Aw5LlwjSB2m','y2XHC3m9iMm','CN0k','qhbHz2v7C2K','BMuTAgvPz2G','BgfZCZ0IAYi','y3zFChjPBNq','B2mGyM9IAw4','BI1IB3r0B20','z246CMLNAhq','pc9IB2r5pJW','lMnWDI10B3q','rgvZyxrPDMe','C2L6ztOXmxa','y3nZvgv4Da','yMfKz2uTz3i','zZ0IChqTqLi','pc90CJ48l3q','yNn7BwfYz2K','zw17BwfYz2K','oJCWmdTSzxq','zg9JDw1LBNq','ChyTDgL0Bgu','ChjPBweGzw0','B2mUytqGlMm','rMvJAgfY','B2XSyxbZzx0','l3nWyw4+phm','mtzWEdTMB24','icaGicaGpc8','t2jZzxj2ysy','zxjYB3i','DgvTCZPJzw4','zNKTy29UDgu','ytqGlMnWDI0','yw4Gy2XHC3m','DgeTCIi+','ChyTAgvHzhS','y2u6ChjLlxC','o2fSAwDUlwK','zg9Jic5JChy','zxzPzxCGzM8','Dgq+cIaGica','mhb4o2HLAwC','zwvUEY5JChy','ncaUzg9Jlxq','B319','Aw5NoJb9Fq','pc9KAxy+pc8','BNrLx0nVBxa','qxnZAw5HDhu','CgfUE2zVBNq','lwnHBMnLBc0','y2vSlwLUzM8','CMfF','y3b2lwL0zw0','zhrOoJeWmcu','Dc1JAgLSzhS','icaGphrYpJW','yMfJA2DYB3u','z24IpJXZCge','icfPBxbVCNq','BgL0EtPOAwq','yY5HncaUzg8','zxrOB2q','AYi+rgf0ytW','pc9KAxy+','zw0GlMnWDI0','qtq7BwfYz2K','zgL2pGOGica','CMvHAZPICMu','zgrPBMC6nxa','l2rPDJ4','DY13CMfWoMi','pc90ywjSzt4'];_0x4529=function(){return _0x3c7e5a;};return _0x4529();}let printPurchaseId=null,printFormat=_0x343bb3(0x299),printAfterSave=![],printViewOnly=![];function getCompraById(_0x138c38){const _0x50a723=_0x343bb3;return purchases[_0x50a723(0x3b0)](_0x1a6115=>_0x1a6115['id']===_0x138c38);}function esc(_0x1bf406){const _0x1666a9=_0x343bb3;return String(_0x1bf406==null?'':_0x1bf406)['replace'](/&/g,'&amp;')[_0x1666a9(0xce)](/</g,_0x1666a9(0xe0))[_0x1666a9(0xce)](/>/g,_0x1666a9(0x3af))['replace'](/"/g,_0x1666a9(0x3d2))['replace'](/'/g,'&#39;');}const CPV_PRINT_CSS=_0x343bb3(0x2a7)+'c,\x20.cpv-'+_0x343bb3(0x3eb)+_0x343bb3(0x1e9)+_0x343bb3(0xe7)+'box}\x0a.cp'+_0x343bb3(0x39a)+_0x343bb3(0x2ee)+_0x343bb3(0x1be)+_0x343bb3(0x103)+_0x343bb3(0x1e4)+_0x343bb3(0xf5)+_0x343bb3(0x2aa)+'pace}\x0a@m'+_0x343bb3(0x21a)+_0x343bb3(0x248)+_0x343bb3(0x1b7)+_0x343bb3(0x1ea)+_0x343bb3(0x2f6)+'}\x0a.cpv-d'+_0x343bb3(0x35e)+_0x343bb3(0x3c3)+_0x343bb3(0x254)+_0x343bb3(0x3b9)+_0x343bb3(0x3ed)+'adding:8'+_0x343bb3(0x348)+_0x343bb3(0x1b2)+_0x343bb3(0x11d)+_0x343bb3(0x220)+_0x343bb3(0x2c0)+_0x343bb3(0x200)+_0x343bb3(0x326)+'k-word;w'+_0x343bb3(0x2ce)+_0x343bb3(0x3ea)+'word}\x0a.c'+_0x343bb3(0x1bf)+_0x343bb3(0x370)+_0x343bb3(0x3f5)+_0x343bb3(0x1fc)+_0x343bb3(0x2c7)+_0x343bb3(0x1b8)+_0x343bb3(0x259)+_0x343bb3(0x27d)+_0x343bb3(0x18d)+'importan'+_0x343bb3(0x3b7)+_0x343bb3(0x244)+_0x343bb3(0x250)+'banner{b'+_0x343bb3(0x19e)+_0x343bb3(0x27b)+_0x343bb3(0x1ad)+_0x343bb3(0x306)+_0x343bb3(0x360)+_0x343bb3(0x31a)+':center;'+_0x343bb3(0x366)+'ght:700;'+'font-siz'+_0x343bb3(0x192)+_0x343bb3(0x1af)+'px;margi'+_0x343bb3(0x224)+':4px}\x0a.c'+'pv-doc\x20.'+'cpv-canc'+'el-info{'+_0x343bb3(0x392)+_0x343bb3(0x38e)+_0x343bb3(0x2c1)+'ize:10px'+_0x343bb3(0x3c6)+_0x343bb3(0xf0)+_0x343bb3(0x10e)+_0x343bb3(0x265)+'reak-wor'+_0x343bb3(0x310)+_0x343bb3(0x262)+'ak-word}'+'\x0a.cpv-do'+_0x343bb3(0x29e)+'\x20.cpv-ca'+_0x343bb3(0xcc)+_0x343bb3(0x2dc)+'v-doc.bo'+_0x343bb3(0x33f)+_0x343bb3(0x3d8)+'-banner\x20'+_0x343bb3(0x393)+'#000\x20!im'+_0x343bb3(0x189)+'border-c'+_0x343bb3(0x2f0)+'0\x20!impor'+_0x343bb3(0x356)+_0x343bb3(0x1bf)+_0x343bb3(0x10d)+_0x343bb3(0x241)+_0x343bb3(0x392)+_0x343bb3(0x38e)+_0x343bb3(0x205)+_0x343bb3(0x1d3)+_0x343bb3(0x342)+_0x343bb3(0x1dd)+_0x343bb3(0x314)+_0x343bb3(0x112)+'t-weight'+_0x343bb3(0x230)+_0x343bb3(0x2fe)+_0x343bb3(0x398)+'\x0a.cpv-do'+_0x343bb3(0x29e)+'\x20.cpv-br'+_0x343bb3(0x146)+_0x343bb3(0x316)+'e:10px;c'+'olor:#33'+_0x343bb3(0x3cd)+_0x343bb3(0x1d3)+'na\x20.cpv-'+'title{ma'+_0x343bb3(0x1c5)+_0x343bb3(0x14c)+('t-size:1'+_0x343bb3(0x30a)+'-weight:'+_0x343bb3(0x30c)+_0x343bb3(0x2e9)+'enter}\x0a.'+_0x343bb3(0x3f5)+_0x343bb3(0x2a2)+_0x343bb3(0x2a9)+'{margin-'+_0x343bb3(0x337)+'font-siz'+_0x343bb3(0x1f1)+_0x343bb3(0x347)+_0x343bb3(0x17e)+_0x343bb3(0x409)+_0x343bb3(0x2e5)+_0x343bb3(0x3b8)+'pv-rule{'+'border-t'+'op:1px\x20d'+_0x343bb3(0x20f)+_0x343bb3(0x327)+'n:6px\x200}'+_0x343bb3(0x2a7)+_0x343bb3(0x29e)+_0x343bb3(0x3d6)+_0x343bb3(0x22f)+_0x343bb3(0x224)+':4px;fon'+_0x343bb3(0x149)+_0x343bb3(0x17d)+'v-doc.bo'+_0x343bb3(0x33f)+_0x343bb3(0x2f3)+'cpv-item'+_0x343bb3(0x2fd)+_0x343bb3(0x2e4)+'t:700}\x0a.'+_0x343bb3(0x3f5)+_0x343bb3(0x2a2)+'cpv-item'+_0x343bb3(0x3d6)+_0x343bb3(0x188)+'display:'+_0x343bb3(0x1fb)+_0x343bb3(0x312)+_0x343bb3(0xf6)+_0x343bb3(0x13c)+'en;align'+'-items:b'+_0x343bb3(0xcb)+'gap:6px}'+_0x343bb3(0x2a7)+_0x343bb3(0x29e)+_0x343bb3(0x3d6)+_0x343bb3(0x25f)+'item-lin'+_0x343bb3(0x40c)+_0x343bb3(0x15c)+_0x343bb3(0x1a1)+_0x343bb3(0x10a)+';min-wid'+_0x343bb3(0x39f)+'rflow-wr'+'ap:break'+'-word}\x0a.'+_0x343bb3(0x3f5)+'bobina\x20.'+_0x343bb3(0x253)+_0x343bb3(0x3d6)+_0x343bb3(0x292)+_0x343bb3(0xd2)+_0x343bb3(0x255)+_0x343bb3(0x368)+'ink:0;wh'+_0x343bb3(0x13d)+'e:nowrap'+'}\x0a.cpv-d'+_0x343bb3(0x35e)+'a\x20.cpv-t'+_0x343bb3(0x37d)+'play:fle'+_0x343bb3(0x387)+'y-conten'+_0x343bb3(0xd4)+'between;'+_0x343bb3(0x316)+_0x343bb3(0x341)+'ont-weig'+_0x343bb3(0xe6)+_0x343bb3(0x2a1)+_0x343bb3(0x15a)+_0x343bb3(0x3f5)+'bobina\x20.'+_0x343bb3(0x190)+_0x343bb3(0x3db)+_0x343bb3(0x15c)+_0x343bb3(0x1a1)+_0x343bb3(0x10a)+';min-wid'+_0x343bb3(0x3cb)+_0x343bb3(0x1bf)+_0x343bb3(0x10d)+_0x343bb3(0x120)+_0x343bb3(0x1e0)+_0x343bb3(0x354)+_0x343bb3(0x39e)+_0x343bb3(0x305)+_0x343bb3(0xe5)+_0x343bb3(0x199)+'p}\x0a.cpv-'+_0x343bb3(0x1d3)+_0x343bb3(0x342)+_0x343bb3(0x331)+'rgin-top'+_0x343bb3(0x14c)+'t-size:1'+'0px}\x0a.cp'+_0x343bb3(0x2ba)+'bina\x20.cp'+_0x343bb3(0x159)+_0x343bb3(0x2f2)+_0x343bb3(0xf3)+';justify')+(_0x343bb3(0x145)+_0x343bb3(0x1fe)+_0x343bb3(0xdd)+_0x343bb3(0x2c2)+_0x343bb3(0x204)+_0x343bb3(0x1d8)+_0x343bb3(0x287)+'\x0a.cpv-do'+_0x343bb3(0x29e)+_0x343bb3(0x111)+'nes\x20div\x20'+_0x343bb3(0xd3)+_0x343bb3(0x15c)+'ld{flex:'+_0x343bb3(0x357)+_0x343bb3(0x10e)+_0x343bb3(0x265)+_0x343bb3(0xc6)+'d}\x0a.cpv-'+_0x343bb3(0x1d3)+_0x343bb3(0x342)+'lines\x20di'+_0x343bb3(0x3f1)+_0x343bb3(0x375)+_0x343bb3(0x30d)+':1\x201\x20aut'+'o;min-wi'+_0x343bb3(0x165)+_0x343bb3(0x31a)+_0x343bb3(0x26b)+'verflow-'+_0x343bb3(0x2f1)+_0x343bb3(0x1a5)+'\x0a.cpv-do'+_0x343bb3(0x29e)+'\x20.cpv-li'+'nes\x20.cpv'+'-lb{font'+_0x343bb3(0x3a3)+_0x343bb3(0x150)+_0x343bb3(0x2ba)+_0x343bb3(0x33f)+_0x343bb3(0x159)+'.cpv-sub'+_0x343bb3(0x358)+_0x343bb3(0x2d4)+_0x343bb3(0x3e8)+_0x343bb3(0x12c)+_0x343bb3(0x144)+_0x343bb3(0x14f)+_0x343bb3(0x3ae)+_0x343bb3(0x1b6)+'-align:l'+_0x343bb3(0x2df)+_0x343bb3(0x2ba)+_0x343bb3(0x33f)+_0x343bb3(0x291)+_0x343bb3(0x1a8)+_0x343bb3(0x3b2)+'ex;justi'+_0x343bb3(0x23d)+'nt:space'+_0x343bb3(0x1c8)+_0x343bb3(0x355)+_0x343bb3(0x402)+_0x343bb3(0x366)+_0x343bb3(0x18a)+_0x343bb3(0x1ef)+_0x343bb3(0x386)+_0x343bb3(0x126)+_0x343bb3(0x33d)+_0x343bb3(0x227)+_0x343bb3(0x1a2)+_0x343bb3(0x373)+_0x343bb3(0x133)+_0x343bb3(0x321)+_0x343bb3(0x1cd)+'min-widt'+_0x343bb3(0x2fb)+_0x343bb3(0x2ba)+'bina\x20.cp'+_0x343bb3(0x291)+_0x343bb3(0x216)+_0x343bb3(0x3f4)+_0x343bb3(0x3c5)+_0x343bb3(0x136)+_0x343bb3(0x345)+'e-space:'+'nowrap}\x0a'+_0x343bb3(0x126)+_0x343bb3(0x33d)+_0x343bb3(0x270)+_0x343bb3(0x1d6)+_0x343bb3(0x2d5)+_0x343bb3(0x316)+'e:10px;w'+_0x343bb3(0xe5)+_0x343bb3(0x242)+_0x343bb3(0xd6)+_0x343bb3(0x2ac)+_0x343bb3(0x28a)+_0x343bb3(0x170)+_0x343bb3(0x1bf)+_0x343bb3(0x10d)+'pv-foot{'+_0x343bb3(0x1ef)+_0x343bb3(0x181)+_0x343bb3(0x392)+_0x343bb3(0x38e)+_0x343bb3(0x2c1)+'ize:10px'+'}\x0a.cpv-d'+_0x343bb3(0x35e)+'a\x20.cpv-f'+'oot\x20stro'+_0x343bb3(0x369)+_0x343bb3(0x229)+_0x343bb3(0xf8)+_0x343bb3(0x1d3)+_0x343bb3(0x342)+_0x343bb3(0x168)+_0x343bb3(0x3da)+'8px;text'+_0x343bb3(0x2e9)+_0x343bb3(0x1bb))+(_0x343bb3(0x314)+_0x343bb3(0xe3)+_0x343bb3(0x285)+_0x343bb3(0x230)+'ter-spac'+'ing:1px}'+'\x0a.cpv-do'+'c.a4{fon'+_0x343bb3(0xd9)+':Arial,H'+_0x343bb3(0x108)+_0x343bb3(0x34d)+_0x343bb3(0x124)+'-size:12'+'px;line-'+_0x343bb3(0x1e3)+'.5;color'+':#111}\x0a.'+_0x343bb3(0x3f5)+_0x343bb3(0x23e)+'a4-head{'+_0x343bb3(0x290)+_0x343bb3(0x15f)+_0x343bb3(0x39c)+_0x343bb3(0x274)+'pse}\x0a.cp'+_0x343bb3(0x39b)+'\x20.cpv-br'+_0x343bb3(0x3f0)+_0x343bb3(0x131)+'px;font-'+_0x343bb3(0x169)+'00;color'+_0x343bb3(0x2b3)+'}\x0a.cpv-d'+_0x343bb3(0x234)+_0x343bb3(0x1e7)+_0x343bb3(0x17b)+_0x343bb3(0x149)+_0x343bb3(0x3bb)+'r:#555}\x0a'+_0x343bb3(0x126)+'.a4\x20.cpv'+_0x343bb3(0x107)+_0x343bb3(0x314)+_0x343bb3(0x2db)+_0x343bb3(0x155)+_0x343bb3(0x392)+_0x343bb3(0x225)+'}\x0a.cpv-d'+_0x343bb3(0x234)+_0x343bb3(0x19d)+'tle{marg'+'in:12px\x20'+_0x343bb3(0x18f)+_0x343bb3(0x314)+_0x343bb3(0x238)+_0x343bb3(0x285)+_0x343bb3(0x16d)+'or:#1F37'+_0x343bb3(0x3c9)+_0x343bb3(0x412)+'nter;let'+_0x343bb3(0x2fe)+_0x343bb3(0x398)+_0x343bb3(0x2a7)+_0x343bb3(0xe4)+_0x343bb3(0x3f8)+'a{width:'+_0x343bb3(0x3ee)+_0x343bb3(0xc4)+_0x343bb3(0x39d)+'lapse;ma'+_0x343bb3(0x3d0)+_0x343bb3(0x185)+'}\x0a.cpv-d'+_0x343bb3(0x234)+_0x343bb3(0x137)+'ta\x20td{bo'+'rder:1px'+_0x343bb3(0x364)+_0x343bb3(0x118)+_0x343bb3(0x142)+_0x343bb3(0x303)+_0x343bb3(0x1b2)+_0x343bb3(0x3fa)+'cpv-doc.'+_0x343bb3(0x23e)+_0x343bb3(0x135)+_0x343bb3(0x27f)+_0x343bb3(0x1e6)+_0x343bb3(0x2ca)+_0x343bb3(0x366)+_0x343bb3(0x18a)+_0x343bb3(0x1fa)+_0x343bb3(0x17d)+_0x343bb3(0x39b)+_0x343bb3(0x367)+_0x343bb3(0x2bb)+'h:100%;b'+_0x343bb3(0x343)+_0x343bb3(0x13a)+_0x343bb3(0x236)+'\x0a.cpv-do'+_0x343bb3(0x25b)+_0x343bb3(0x3e0)+_0x343bb3(0x377)+_0x343bb3(0x353)+'doc-tabl'+_0x343bb3(0x100)+_0x343bb3(0x3a8)+'solid\x20#D'+'1D5DB;pa'+_0x343bb3(0x263)+_0x343bb3(0x3c8)+_0x343bb3(0x314)+_0x343bb3(0x2af)+_0x343bb3(0x1ab)+_0x343bb3(0x249)+'able\x20th{'+_0x343bb3(0x257)+_0x343bb3(0x121)+'F6;font-'+_0x343bb3(0x215)+_0x343bb3(0x28e))+(_0x343bb3(0x207)+_0x343bb3(0xde)+_0x343bb3(0x127)+'.doc-tab'+_0x343bb3(0x2c4)+'-r,.cpv-'+'doc.a4\x20.'+'doc-tabl'+'e\x20th.ta-'+_0x343bb3(0x110)+'lign:rig'+_0x343bb3(0x349)+'-doc.a4\x20'+'.cpv-a4-'+'total{di'+_0x343bb3(0x3b2)+_0x343bb3(0x3c7)+_0x343bb3(0x23d)+_0x343bb3(0x19b)+_0x343bb3(0x1c8)+_0x343bb3(0x243)+_0x343bb3(0x23c)+_0x343bb3(0x2a5)+'in-top:1'+_0x343bb3(0x10f)+_0x343bb3(0x17f)+_0x343bb3(0x325)+_0x343bb3(0x322)+_0x343bb3(0x2eb)+_0x343bb3(0x183)+_0x343bb3(0x105)+'d\x20#D1D5D'+_0x343bb3(0x213)+'-radius:'+_0x343bb3(0x132)+_0x343bb3(0x39b)+_0x343bb3(0xfc)+_0x343bb3(0x2cf)+_0x343bb3(0x24f)+_0x343bb3(0x157)+_0x343bb3(0x2cd)+_0x343bb3(0x215)+_0x343bb3(0x3df)+_0x343bb3(0x127)+_0x343bb3(0x280)+'total\x20.c'+_0x343bb3(0x120)+'-val{fon'+'t-size:1'+_0x343bb3(0x269)+_0x343bb3(0x381)+_0x343bb3(0x2e2)+_0x343bb3(0x353)+'cpv-a4-o'+_0x343bb3(0x22e)+_0x343bb3(0x29c)+'px;font-'+_0x343bb3(0x273)+_0x343bb3(0xdc)+'space:pr'+_0x343bb3(0x31b)+_0x343bb3(0x126)+_0x343bb3(0xcf)+'-sign{ma'+_0x343bb3(0x1c5)+_0x343bb3(0x27e)+'nt-size:'+'12px;tex'+'t-align:'+_0x343bb3(0x12d)+_0x343bb3(0x126)+'.a4\x20.cpv'+_0x343bb3(0x202)+_0x343bb3(0x1b0)+'line{dis'+'play:inl'+_0x343bb3(0x21c)+_0x343bb3(0x34f)+_0x343bb3(0x32b)+_0x343bb3(0x364)+_0x343bb3(0x18c)+'ing-top:'+_0x343bb3(0x3a7)+_0x343bb3(0xfb)+_0x343bb3(0x17d)+_0x343bb3(0x39b)+'\x20.cpv-a4'+_0x343bb3(0x101)+'rgin-top'+':14px;fo'+_0x343bb3(0x314)+_0x343bb3(0x3d3)+_0x343bb3(0x3e9)+'center;c'+_0x343bb3(0x3e7)+_0x343bb3(0x28c)+_0x343bb3(0x21b)+_0x343bb3(0x152)+_0x343bb3(0x39b)+_0x343bb3(0x164)+_0x343bb3(0x313)+_0x343bb3(0x1f4)+'px;font-'+_0x343bb3(0x16e)+_0x343bb3(0x301)+_0x343bb3(0xc7)+_0x343bb3(0x392)+_0x343bb3(0x38e)+_0x343bb3(0x21e));function cpvPageCss(_0x27af1a){const _0x2d2178=_0x343bb3;if(_0x27af1a==='a4')return _0x2d2178(0x2ed)+_0x2d2178(0x338)+'ge{size:'+_0x2d2178(0x260)+'n:14mm}.'+_0x2d2178(0x3f5)+_0x2d2178(0x1a6)+_0x2d2178(0x1ee);return'@page{si'+_0x2d2178(0x194)+_0x2d2178(0x3d7)+_0x2d2178(0xff)+'media\x20pr'+_0x2d2178(0x3a5)+_0x2d2178(0x182)+'rgin:0;p'+_0x2d2178(0x1c7)+'}.cpv-do'+_0x2d2178(0x29e)+_0x2d2178(0x187)+_0x2d2178(0x197)+_0x2d2178(0xca)+_0x2d2178(0x24a);}function gerarDocumentoCompra(_0x45ce57,_0x225e5c,_0x369d3d){const _0x578087=_0x343bb3,_0x27e1ad=_0x225e5c!=='a4',_0xa7645a=appConfig[_0x578087(0x38c)+'any_name']||_0x578087(0x2c9)+_0x578087(0x3ba),_0x1bbde2=appConfig[_0x578087(0x2b1)]||'',_0x5ae610=_0x45ce57['paymentM'+_0x578087(0x25c)]===_0x578087(0x2ae)?_0x578087(0x212):'Dinheiro',_0x2cb449=new Date()[_0x578087(0x3a1)+_0x578087(0x117)](_0x578087(0x278)),_0xab74fe=formatDate(_0x45ce57[_0x578087(0x3a0)]),_0x58ee5e=_0x45ce57[_0x578087(0x32c)]||[],_0x29219c=_0x45ce57[_0x578087(0x3ce)+'ce']||_0x58ee5e[_0x578087(0x15b)]((_0x152957,_0x5b4060)=>_0x152957+_0x5b4060[_0x578087(0x3ce)+'ce'],-0x1*-0x18a7+-0x27*0x6a+-0x1*0x881),_0xee3d51=typeof getCompraCancelamento==='function'?getCompraCancelamento(_0x45ce57['id']):null,_0x5e1ceb=_0xee3d51?'<div\x20cla'+'ss=\x22cpv-'+_0x578087(0xf4)+_0x578087(0x382)+_0x578087(0x276)+_0x578087(0x211)+_0x578087(0x3aa)+_0x578087(0x35a)+'v\x20class='+_0x578087(0x1b9)+_0x578087(0x251)+_0x578087(0x279)+':\x20'+esc(_0xee3d51[_0x578087(0xd7)])+(_0x578087(0x286)+_0x578087(0x2a8)+_0x578087(0x2b5))+esc(_0xee3d51[_0x578087(0x102)+'oPor']||'-')+_0x578087(0x2f5)+(_0xee3d51[_0x578087(0x102)+_0x578087(0x1f9)]?new Date(_0xee3d51[_0x578087(0x102)+'oEm'])['toLocale'+_0x578087(0x117)](_0x578087(0x278)):'-')+_0x578087(0x25e):'';let _0x458b5a;if(_0x27e1ad){const _0x2bb8cd=_0x58ee5e[_0x578087(0x1e2)](_0xa4898a=>_0x578087(0x318)+'div\x20clas'+_0x578087(0xfa)+_0x578087(0x294)+'\x20\x20\x20\x20\x20\x20<d'+'iv\x20class'+_0x578087(0x3b4)+_0x578087(0x2b9)+'>'+esc(_0xa4898a[_0x578087(0x320)+_0x578087(0x3d9)])+('</div>\x0a\x20'+'\x20\x20\x20\x20\x20\x20\x20<'+_0x578087(0x2e1)+_0x578087(0xfa)+_0x578087(0xd5)+_0x578087(0x26a))+formatNumber(_0xa4898a['quantity'])+('\x20kg\x20&tim'+'es;\x20R$\x20')+formatNumber(_0xa4898a[_0x578087(0x275)+'e'])+(_0x578087(0x1ba)+'span>')+formatNumber(_0xa4898a[_0x578087(0x3ce)+'ce'])+(_0x578087(0x1ba)+_0x578087(0x179)+_0x578087(0x12e)+'v>'))[_0x578087(0x2ec)]('');_0x458b5a=_0x578087(0x318)+'div\x20clas'+'s=\x22cpv-d'+_0x578087(0x223)+'a\x22>\x0a\x20\x20\x20\x20'+_0x578087(0x178)+_0x578087(0x36b)+'cpv-head'+'\x22>\x0a\x20\x20\x20\x20\x20'+_0x578087(0x14d)+_0x578087(0x15e)+'\x22cpv-bra'+_0x578087(0x336)+esc(_0xa7645a)+(_0x578087(0x30b)+_0x578087(0x36a)+'\x20')+(_0x1bbde2?_0x578087(0x106)+_0x578087(0x323)+_0x578087(0x384)+_0x578087(0x1bc)+esc(_0x1bbde2)+_0x578087(0x25e):'')+(_0x578087(0x123)+_0x578087(0x2ea)+_0x578087(0x21d)+_0x578087(0x232)+_0x578087(0x16a)+_0x578087(0x17a)+_0x578087(0xcd)+_0x578087(0x179)+_0x578087(0x36a)+'<div\x20cla'+'ss=\x22cpv-'+_0x578087(0x1c6)+_0x578087(0x385))+_0x45ce57['id']+(_0x578087(0x3e6)+';\x20')+_0xab74fe+('</div>\x0a\x20'+'\x20\x20\x20\x20\x20\x20\x20<'+_0x578087(0x179)+_0x578087(0x2da)+_0x578087(0x163)+_0x578087(0xc8)+_0x578087(0xeb)+_0x578087(0x20e)+_0x578087(0x1ec))+_0x5e1ceb+(_0x578087(0x123)+'\x20')+_0x2bb8cd+(_0x578087(0x123)+_0x578087(0x297)+_0x578087(0x1cf)+_0x578087(0x20c)+_0x578087(0x179)+'\x20\x20\x20\x20\x20\x20<d'+_0x578087(0x163)+_0x578087(0x191)+_0x578087(0x40e)+'an>TOTAL'+_0x578087(0x1ba)+_0x578087(0x1ff))+formatNumber(_0x29219c)+(_0x578087(0x1ba)+_0x578087(0x179)+_0x578087(0x2da)+_0x578087(0x163)+_0x578087(0x11c)+_0x578087(0x184)+_0x578087(0x36a)+_0x578087(0x2a3)+_0x578087(0x23f)+'=\x22cpv-lb'+_0x578087(0x383)+_0x578087(0x3a2)+_0x578087(0x10c))+_0x5ae610+('</span><'+'/div>\x0a\x20\x20'+'\x20\x20\x20\x20\x20\x20\x20\x20')+(_0x45ce57['pessoaNa'+'me']?_0x578087(0x2a3)+_0x578087(0x23f)+_0x578087(0x14a)+'\x22>Pessoa'+_0x578087(0x1ba)+_0x578087(0x116)+esc(_0x45ce57[_0x578087(0xef)+'me'])+(_0x578087(0x1ba)+_0x578087(0x264)):'')+(_0x578087(0x123)+_0x578087(0x20d)+'<span\x20cl'+_0x578087(0x1cf)+'-lb\x22>Emi'+'ss&atild'+_0x578087(0x36f)+_0x578087(0x10c))+_0x2cb449+(_0x578087(0x1ba)+_0x578087(0x179)+_0x578087(0x239)+_0x578087(0x261)+_0x578087(0x1c4))+(_0x45ce57[_0x578087(0x35b)]?_0x578087(0x106)+_0x578087(0x323)+_0x578087(0x31e)+':\x20'+esc(_0x45ce57['notes'])+_0x578087(0x25e):'')+('\x0a\x20\x20\x20\x20\x20\x20\x20'+_0x578087(0x297)+_0x578087(0x1cf)+'-rule\x22><'+'/div>\x0a\x20\x20'+'\x20\x20\x20\x20\x20\x20<d'+_0x578087(0x163)+_0x578087(0x11b)+_0x578087(0x16c)+_0x578087(0x36c)+'Eacute;\x20'+_0x578087(0x295)+_0x578087(0x125)+_0x578087(0x30b)+'\x20\x20\x20\x20\x20\x20\x20<'+'div\x20clas'+_0x578087(0x177)+_0x578087(0xec)+_0x578087(0x394)+_0x578087(0x29a)+'la\x20prefe'+_0x578087(0x34b)+'ncia!</s'+'trong><b'+_0x578087(0x2d8)+_0x578087(0x1aa)+_0x578087(0x380)+'stema\x20de'+_0x578087(0x2a6)+'</div>\x0a\x20'+_0x578087(0x1a0)+_0x578087(0x289));}else{const _0xb6044e=_0x578087(0x318)+_0x578087(0xf9)+_0x578087(0x3f3)+_0x578087(0x319)+_0x578087(0x123)+'\x20<thead>'+'<tr><th>'+_0x578087(0x40a)+_0x578087(0x308)+_0x578087(0x38f)+_0x578087(0x32f)+'\x20(kg)</t'+_0x578087(0x1b3)+'ass=\x22ta-'+'r\x22>R$/kg'+_0x578087(0x3c4)+_0x578087(0x36b)+_0x578087(0x1da)+'tal</th>'+_0x578087(0x22d)+_0x578087(0x2c6)+_0x578087(0x33e)+_0x578087(0x214)+_0x58ee5e['map'](_0x35798e=>_0x578087(0x123)+_0x578087(0x256)+_0x578087(0x363)+esc(_0x35798e[_0x578087(0x320)+_0x578087(0x3d9)])+(_0x578087(0x3b5)+_0x578087(0x36b)+_0x578087(0x240))+formatNumber(_0x35798e[_0x578087(0x2a4)])+(_0x578087(0x3b5)+_0x578087(0x36b)+_0x578087(0x240))+formatNumber(_0x35798e[_0x578087(0x275)+'e'])+(_0x578087(0x3b5)+_0x578087(0x36b)+_0x578087(0x240))+formatNumber(_0x35798e['totalPri'+'ce'])+('</td></t'+'r>'))[_0x578087(0x2ec)]('')+(_0x578087(0x123)+_0x578087(0x351)+'>\x0a\x20\x20\x20\x20\x20\x20'+_0x578087(0x266));_0x458b5a=_0x578087(0x318)+_0x578087(0x2e1)+'s=\x22cpv-d'+_0x578087(0x1b5)+_0x578087(0x36a)+'<table\x20c'+_0x578087(0x1d0)+_0x578087(0x139)+'d\x22>\x0a\x20\x20\x20\x20'+'\x20\x20\x20\x20\x20\x20<t'+'r>\x0a\x20\x20\x20\x20\x20'+_0x578087(0x362)+_0x578087(0x350)+_0x578087(0x21d)+_0x578087(0x1e7)+'\x22>'+esc(_0xa7645a)+(_0x578087(0x400)+_0x578087(0x163)+_0x578087(0x1ce)+_0x578087(0x35f)+'>')+(_0x1bbde2?'CNPJ\x20'+esc(_0x1bbde2):'')+(_0x578087(0x24c)+_0x578087(0x246)+_0x578087(0x36a)+_0x578087(0x209)+_0x578087(0x388)+_0x578087(0x2be)+_0x578087(0x371)+'\x20')+_0x2cb449+(_0x578087(0x3c1)+_0x578087(0x36a)+_0x578087(0x17c)+_0x578087(0x239)+'table>\x0a\x20'+_0x578087(0x362)+'div\x20clas'+_0x578087(0x195)+_0x578087(0x268)+_0x578087(0x167)+'\x20\x20\x20\x20<div'+'\x20class=\x22'+_0x578087(0x3f2)+_0x578087(0x12b)+_0x578087(0x3e5)+_0x578087(0x405)+_0x578087(0x2ff)+_0x578087(0x346)+'\x20\x20')+_0x5e1ceb+(_0x578087(0x123)+_0x578087(0x153)+_0x578087(0x21d)+_0x578087(0x137)+'ta\x22>\x0a\x20\x20\x20'+_0x578087(0x362)+_0x578087(0x113)+_0x578087(0x221)+_0x578087(0x3e4)+'n&ordm;<'+_0x578087(0x37c)+'#')+_0x45ce57['id']+(_0x578087(0x3b5)+_0x578087(0x36b)+_0x578087(0x25d)+'/td><td>')+_0xab74fe+(_0x578087(0x29b)+_0x578087(0x156)+_0x578087(0x328)+_0x578087(0x1d9)+'ss=\x22k\x22>P'+_0x578087(0x3a6)+_0x578087(0x2cc)+'lspan=\x223'+'\x22>')+esc(_0x45ce57[_0x578087(0xef)+'me']||'-')+('</td></t'+_0x578087(0x156)+_0x578087(0x328)+_0x578087(0x1d9)+_0x578087(0x32e)+_0x578087(0x12a)+_0x578087(0x3b5)+_0x578087(0x293)+_0x578087(0x140))+_0x5ae610+(_0x578087(0x29b)+_0x578087(0x156)+'\x20\x20\x20</tab'+_0x578087(0x1df)+_0x578087(0x35d))+_0xb6044e+(_0x578087(0x123)+'\x20<div\x20cl'+_0x578087(0x1cf)+'-a4-tota'+'l\x22><span'+_0x578087(0x1de)+_0x578087(0x1e8)+'an><span'+_0x578087(0x36b)+_0x578087(0x190)+'l-val\x22>R'+'$\x20')+formatNumber(_0x29219c)+(_0x578087(0x1ba)+'/div>\x0a\x20\x20'+_0x578087(0x3c2))+(_0x45ce57[_0x578087(0x35b)]?_0x578087(0x106)+_0x578087(0x323)+_0x578087(0x2b4)+_0x578087(0x20b)+_0x578087(0x23a)+_0x578087(0x2b6)+_0x578087(0x411)+_0x578087(0x1f7)+'ng><br>'+esc(_0x45ce57[_0x578087(0x35b)])+'</div>':'')+(_0x578087(0x123)+_0x578087(0x297)+_0x578087(0x1cf)+_0x578087(0x1c2)+'\x22>N&atil'+_0x578087(0x2bd)+_0x578087(0x3d1)+_0x578087(0x40d)+_0x578087(0x296)+_0x578087(0x179)+_0x578087(0x2da)+_0x578087(0x163)+_0x578087(0x36e)+_0x578087(0x258)+_0x578087(0x1d7)+_0x578087(0x196)+_0x578087(0x147)+_0x578087(0x24e)+_0x578087(0x1d4)+_0x578087(0x28f)+_0x578087(0x1ba)+_0x578087(0x179)+'\x20\x20\x20\x20\x20\x20<d'+_0x578087(0x163)+_0x578087(0xc5)+_0x578087(0x29f)+_0x578087(0x1eb)+'rado\x20pel'+_0x578087(0x1a7)+_0x578087(0x1aa)+_0x578087(0x129))+esc(_0xa7645a)+(_0x578087(0x30b)+'\x20\x20\x20\x20\x20</d'+_0x578087(0x289));}return _0x369d3d?_0x578087(0x27a)+CPV_PRINT_CSS+'</style>'+_0x458b5a:_0x458b5a;}function montarHTMLImpressao(_0x183df2,_0x2a6458){const _0x30be4d=_0x343bb3,_0x246a3b=appConfig[_0x30be4d(0x38c)+_0x30be4d(0x14b)]||_0x30be4d(0x2c9)+_0x30be4d(0x3ba);return _0x30be4d(0x37e)+'E\x20html><'+_0x30be4d(0x2b2)+'g=\x22pt-BR'+_0x30be4d(0x37f)+_0x30be4d(0x333)+_0x30be4d(0x14e)+_0x30be4d(0x1c0)+_0x30be4d(0x3ad)+_0x30be4d(0x3ca)+_0x30be4d(0x332)+_0x30be4d(0xee)+_0x183df2['id']+_0x30be4d(0x158)+esc(_0x246a3b)+('</title>'+_0x30be4d(0x27a))+cpvPageCss(_0x2a6458)+('body{mar'+_0x30be4d(0x37b)+_0x30be4d(0x322)+_0x30be4d(0x208))+CPV_PRINT_CSS+('</style>'+_0x30be4d(0x329)+_0x30be4d(0x214))+gerarDocumentoCompra(_0x183df2,_0x2a6458,![])+(_0x30be4d(0x226)+_0x30be4d(0x3fe));}function getPrintPrefs(){const _0x31b87e=_0x343bb3;try{return{'format':localStorage[_0x31b87e(0x2d1)](_0x31b87e(0x222)+_0x31b87e(0x33a))==='a4'?'a4':_0x31b87e(0x299),'direct':localStorage[_0x31b87e(0x2d1)](_0x31b87e(0x222)+_0x31b87e(0x1dc))==='1'};}catch(_0x4d62b6){return{'format':'bobina','direct':![]};}}function setPrintDefaultFormat(_0x303688){const _0x356f99=_0x343bb3,_0x5a235f=_0x303688==='a4'?'a4':_0x356f99(0x299);printFormat=_0x5a235f;try{localStorage['setItem']('cv_print'+_0x356f99(0x33a),_0x5a235f);}catch(_0x55e72b){}}function setPrintDirect(_0x424188){const _0x2fcc36=_0x343bb3;try{localStorage[_0x2fcc36(0x389)](_0x2fcc36(0x222)+_0x2fcc36(0x1dc),_0x424188?'1':'0');}catch(_0x57873a){}const _0x2a37a9=document[_0x2fcc36(0xd1)+'ntById'](_0x2fcc36(0x160)+_0x2fcc36(0x198)+'s');_0x2a37a9&&(_0x2a37a9[_0x2fcc36(0x2e3)+_0x2fcc36(0xd8)]=_0x424188?_0x2fcc36(0x2c5):_0x2fcc36(0x228)+'da',_0x2a37a9[_0x2fcc36(0x283)+'e']='badge\x20'+(_0x424188?_0x2fcc36(0x22b)+_0x2fcc36(0x282):_0x2fcc36(0x22b)+'ay'));}function renderPrintPreview(){const _0x14f324=_0x343bb3,_0x2fac0e=document['getEleme'+_0x14f324(0x174)](_0x14f324(0x3e2)+'view');if(!_0x2fac0e)return;const _0x5588d3=getCompraById(printPurchaseId);_0x2fac0e[_0x14f324(0x283)+'e']=_0x14f324(0x374)+_0x14f324(0x245)+'rmat-'+printFormat,_0x2fac0e[_0x14f324(0x2e0)+'L']=_0x5588d3?gerarDocumentoCompra(_0x5588d3,printFormat,!![]):'';}function openPrintModal(_0x376452,_0x18e1e1){const _0x172962=_0x343bb3;printPurchaseId=_0x376452['id'],printAfterSave=!!(_0x18e1e1&&_0x18e1e1[_0x172962(0x1f0)+'e']),printViewOnly=!!(_0x18e1e1&&_0x18e1e1[_0x172962(0x397)]),printFormat=getPrintPrefs()[_0x172962(0x2de)],document[_0x172962(0xd1)+'ntById'](_0x172962(0x309)+_0x172962(0x3bf))[_0x172962(0x2e3)+'ent']=_0x172962(0x271)+_0x172962(0x277)+_0x172962(0x1fd)+_0x376452['id'],document[_0x172962(0xd1)+_0x172962(0x174)]('printMod'+'alMessag'+'e')[_0x172962(0x2e3)+'ent']=printViewOnly?_0x172962(0x18e)+_0x172962(0x315)+_0x172962(0x3f7)+'nte\x20dest'+_0x172962(0x2d7)+'.':printAfterSave?_0x172962(0x395)+_0x172962(0x38b)+_0x172962(0x210)+'cesso.\x20D'+'eseja\x20im'+_0x172962(0x379)+_0x172962(0x2c8)+_0x172962(0x1f2):_0x172962(0x18e)+_0x172962(0x151)+_0x172962(0x298)+_0x172962(0x304)+_0x172962(0x1f6)+_0x172962(0x233)+_0x172962(0x11f)+_0x172962(0x3be),document['getEleme'+_0x172962(0x174)](_0x172962(0x309)+_0x172962(0x2bf)+_0x172962(0x376))['textCont'+_0x172962(0xd8)]=printAfterSave&&!printViewOnly?_0x172962(0x2b7)+_0x172962(0x162):_0x172962(0x235);const _0x177443=document[_0x172962(0xd1)+'ntById'](_0x172962(0x309)+_0x172962(0x1a4)+'tn');if(_0x177443)_0x177443[_0x172962(0x307)]['display']=printViewOnly?'none':_0x172962(0x201)+'lex';setPrintFormat(printFormat),document['getEleme'+_0x172962(0x174)]('printMod'+'alOverla'+'y')[_0x172962(0x154)+'t'][_0x172962(0x396)](_0x172962(0x28d)),document[_0x172962(0x340)][_0x172962(0x307)][_0x172962(0x218)]=_0x172962(0x281),setTimeout(()=>{const _0x126288=_0x172962;if(typeof lucide!==_0x126288(0x38d)+'d')lucide[_0x126288(0x34a)+_0x126288(0x361)]();},-0x1*0x70f+-0x522+0xc63);}function closePrintModal(){const _0x3b353f=_0x343bb3;document[_0x3b353f(0xd1)+_0x3b353f(0x174)]('printMod'+'alOverla'+'y')[_0x3b353f(0x154)+'t'][_0x3b353f(0x114)](_0x3b353f(0x28d)),document[_0x3b353f(0x340)]['style']['overflow']='',printPurchaseId=null,printViewOnly=![];}function _0x15bc(_0x156b59,_0x4ced1b){_0x156b59=_0x156b59-(-0xd3c*0x1+0x1*0x949+0x4b7);const _0x3091f8=_0x4529();let _0x54da13=_0x3091f8[_0x156b59];if(_0x15bc['pSWhIa']===undefined){var _0x203f44=function(_0x3bf456){const _0x1b553a='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x14e525='',_0x4f600c='';for(let _0x2990ab=0x21ed+-0x1*-0x1aab+-0x1c*0x22a,_0x280f0c,_0x1d0400,_0x5b2135=-0x1*-0x12e9+-0xfae+-0x33b;_0x1d0400=_0x3bf456['charAt'](_0x5b2135++);~_0x1d0400&&(_0x280f0c=_0x2990ab%(0xdbe+-0xda+-0xce0)?_0x280f0c*(0x1076+-0xd2c+-0x30a*0x1)+_0x1d0400:_0x1d0400,_0x2990ab++%(-0xb2+0x11*-0xb5+0x1*0xcbb))?_0x14e525+=String['fromCharCode'](0x184f+0xaf2+-0x2242&_0x280f0c>>(-(0x1*0x25d6+-0x123c+0xd1*-0x18)*_0x2990ab&-0xbe*-0x33+-0x960+0x2*-0xe3a)):0xdb*0xf+0x13e2+-0x20b7){_0x1d0400=_0x1b553a['indexOf'](_0x1d0400);}for(let _0x5aa24d=0xa36*0x1+-0x1*-0x203b+-0x2a71,_0x348ba1=_0x14e525['length'];_0x5aa24d<_0x348ba1;_0x5aa24d++){_0x4f600c+='%'+('00'+_0x14e525['charCodeAt'](_0x5aa24d)['toString'](0x1*0x72e+-0x2*-0x1334+0x16c3*-0x2))['slice'](-(-0x797+-0xee5+0x1*0x167e));}return decodeURIComponent(_0x4f600c);};_0x15bc['JTxlce']=_0x203f44,_0x15bc['OgTggv']={},_0x15bc['pSWhIa']=!![];}const _0x35fb8c=_0x3091f8[-0x1f8f*0x1+0x3*-0x47d+0x2d06],_0x11ff49=_0x156b59+_0x35fb8c,_0x1b9222=_0x15bc['OgTggv'][_0x11ff49];return!_0x1b9222?(_0x54da13=_0x15bc['JTxlce'](_0x54da13),_0x15bc['OgTggv'][_0x11ff49]=_0x54da13):_0x54da13=_0x1b9222,_0x54da13;}function setPrintFormat(_0x2b318b){const _0x45a4a7=_0x343bb3;printFormat=_0x2b318b==='a4'?'a4':'bobina';try{localStorage[_0x45a4a7(0x389)](_0x45a4a7(0x222)+_0x45a4a7(0x33a),printFormat);}catch(_0x2eaf44){}document[_0x45a4a7(0x1a3)+_0x45a4a7(0x219)](_0x45a4a7(0x30e)+_0x45a4a7(0x2e7)+_0x45a4a7(0x1f8))[_0x45a4a7(0x1b1)](_0x255c3f=>{const _0x46aba9=_0x45a4a7;_0x255c3f['classLis'+'t']['toggle']('active',_0x255c3f['dataset'][_0x46aba9(0x2de)]===printFormat);});const _0x4e5dc2=document[_0x45a4a7(0xd1)+_0x45a4a7(0x174)](_0x45a4a7(0xda)+_0x45a4a7(0xe1));if(_0x4e5dc2)_0x4e5dc2[_0x45a4a7(0x307)]['display']=printFormat===_0x45a4a7(0x299)?_0x45a4a7(0x119):'none';renderPrintPreview();}function doPrintPurchase(){const _0x3b0bfa=getCompraById(printPurchaseId);if(!_0x3b0bfa)return;closePrintModal(),imprimirDocumento(_0x3b0bfa,printFormat);}function verCompraDoc(_0x72650a){const _0x2be36d=getCompraById(_0x72650a);if(_0x2be36d)openPrintModal(_0x2be36d,{'afterSave':![],'viewOnly':!![]});}function imprimirCompraDoc(_0x512149){const _0x61217=getCompraById(_0x512149);if(_0x61217)openPrintModal(_0x61217,{'afterSave':![]});}function addCanvasToPdf(_0x28a106,_0x32237d,_0x451b9e,_0x4701a8,_0x41b9e2,_0x3dc20e,_0x182621){const _0x1b362c=_0x343bb3,_0x372cd8=_0x32237d[_0x1b362c(0x171)]/_0x3dc20e,_0x10160d=(_0x993cae,_0x53d05a)=>{const _0xa77a53=_0x1b362c,_0x543915=document[_0xa77a53(0x193)+_0xa77a53(0x410)](_0xa77a53(0x12f));return _0x543915[_0xa77a53(0xfe)]=_0x32237d[_0xa77a53(0xfe)],_0x543915[_0xa77a53(0x171)]=_0x53d05a,_0x543915[_0xa77a53(0x34e)+'xt']('2d')['drawImag'+'e'](_0x32237d,-0x1eac+0x1076+0xe36,_0x993cae,_0x32237d[_0xa77a53(0xfe)],_0x53d05a,0x1c99+-0x247b+0x7e2,0x2*0xe80+0x2*0x78d+-0x2c1a,_0x543915[_0xa77a53(0xfe)],_0x543915[_0xa77a53(0x171)]),_0x543915[_0xa77a53(0x2c3)+'L']('image/jp'+'eg',-0x27*0xbf+0x1*-0x14c3+0x31dc+0.92);};let _0x484d65=-0x2*-0x12e7+-0x85*-0x33+-0x404d,_0xb4b152=_0x4701a8;while(_0x484d65<_0x3dc20e){const _0x402ec6=Math[_0x1b362c(0x15d)](_0x182621-_0xb4b152,_0x3dc20e-_0x484d65);_0x28a106[_0x1b362c(0xf2)](_0x10160d(Math[_0x1b362c(0x31f)](_0x484d65*_0x372cd8),Math[_0x1b362c(0x31f)](_0x402ec6*_0x372cd8)),'JPEG',_0x451b9e,_0xb4b152,_0x41b9e2,_0x402ec6),_0x484d65+=_0x402ec6,_0x484d65<_0x3dc20e&&(_0x28a106[_0x1b362c(0x3ab)](),_0xb4b152=0x15b*0xb+0x1f7*0x2+-0x12d7);}}async function salvarCompraPDF(){const _0x52f10b=_0x343bb3,_0x429139=getCompraById(printPurchaseId);if(!_0x429139)return;if(!window[_0x52f10b(0x1bd)]||!window[_0x52f10b(0x161)+_0x52f10b(0x3cc)]){showAlert(_0x52f10b(0x130)+'ca\x20de\x20PD'+_0x52f10b(0x31c)+_0x52f10b(0x143)+'\x20Verifiq'+_0x52f10b(0x2d0)+'onexão\x20e'+_0x52f10b(0x399)+_0x52f10b(0x3ff)+_0x52f10b(0x20a));return;}const {jsPDF:_0x39b6be}=window[_0x52f10b(0x1bd)],_0x291e78=printFormat==='a4'?'a4':_0x52f10b(0x299),_0x3303c0=document[_0x52f10b(0x193)+_0x52f10b(0x410)](_0x52f10b(0x176));_0x3303c0[_0x52f10b(0x307)][_0x52f10b(0x22a)]=_0x52f10b(0x122)+_0x52f10b(0x3fc)+_0x52f10b(0x134)+'12000px;'+_0x52f10b(0x1db)+_0x52f10b(0x322)+':#fff;z-'+_0x52f10b(0xea)+';'+(_0x291e78==='a4'?_0x52f10b(0x372)+_0x52f10b(0x13e):''),_0x3303c0['innerHTM'+'L']=gerarDocumentoCompra(_0x429139,_0x291e78,!![]),document[_0x52f10b(0x340)][_0x52f10b(0x1c3)+_0x52f10b(0x2d6)](_0x3303c0);const _0x177108=_0x3303c0[_0x52f10b(0x1a3)+_0x52f10b(0x1f5)](_0x52f10b(0x126));_0x291e78===_0x52f10b(0x299)&&(_0x177108[_0x52f10b(0x307)][_0x52f10b(0xfe)]=_0x52f10b(0x180),_0x177108[_0x52f10b(0x307)][_0x52f10b(0x3bc)]=_0x52f10b(0x180),_0x177108[_0x52f10b(0x307)][_0x52f10b(0x26d)]='0');try{const _0x1c1a85=await html2canvas(_0x177108,{'scale':0x2,'backgroundColor':_0x52f10b(0x217),'useCORS':!![],'windowWidth':_0x177108[_0x52f10b(0x2d3)+_0x52f10b(0x1cb)],'windowHeight':_0x177108[_0x52f10b(0x206)+'ight']});if(_0x291e78==='a4'){const _0x49f875=new _0x39b6be({'unit':'pt','format':'a4'}),_0x5d8080=_0x49f875[_0x52f10b(0x300)][_0x52f10b(0xf7)]['getWidth'](),_0x512227=_0x49f875[_0x52f10b(0x300)][_0x52f10b(0xf7)][_0x52f10b(0xd0)+'t'](),_0xd59d7b=0x10*-0xe2+0x2*0x51b+0x406,_0x21ad14=_0x5d8080-_0xd59d7b*(0x5b2*-0x1+0x2*0x397+-0x17a),_0x2497da=_0x1c1a85[_0x52f10b(0x171)]*_0x21ad14/_0x1c1a85[_0x52f10b(0xfe)];addCanvasToPdf(_0x49f875,_0x1c1a85,_0xd59d7b,_0xd59d7b,_0x21ad14,_0x2497da,_0x512227),_0x49f875[_0x52f10b(0x335)](_0x52f10b(0x271)+_0x52f10b(0x24d)+'ra_'+_0x429139['id']+_0x52f10b(0x3e1));}else{const _0x3a5f15=Math[_0x52f10b(0x3b3)](0x1ae5+0x14c0+-0x2f87,Math[_0x52f10b(0x148)](_0x1c1a85[_0x52f10b(0x171)]*(-0x3b5*0x7+0x1b1d+-0xe2*0x1)/_0x1c1a85['width'])),_0xfe24e1=new _0x39b6be({'unit':'mm','format':[0xf3c+0xbd8+0x1*-0x1acc,_0x3a5f15]}),_0x3e9fdc=_0xfe24e1[_0x52f10b(0x300)]['pageSize'][_0x52f10b(0xe2)](),_0x5f2a50=_0xfe24e1[_0x52f10b(0x300)]['pageSize'][_0x52f10b(0xd0)+'t'](),_0x32b041=_0x3e9fdc,_0x2e32fa=_0x1c1a85[_0x52f10b(0x171)]*_0x32b041/_0x1c1a85[_0x52f10b(0xfe)];addCanvasToPdf(_0xfe24e1,_0x1c1a85,-0x617*-0x5+-0x256c+-0x15*-0x55,-0x15f4+0x19f6+-0x402,_0x32b041,_0x2e32fa,_0x5f2a50),_0xfe24e1[_0x52f10b(0x335)](_0x52f10b(0x271)+_0x52f10b(0x24d)+_0x52f10b(0x252)+_0x429139['id']+(_0x52f10b(0x26e)+_0x52f10b(0x3e3)));}showNotification(_0x52f10b(0x32d)+'do\x20com\x20s'+_0x52f10b(0x31d),'success');}catch(_0x51cbe){console['error']('Erro\x20ao\x20'+'gerar\x20PD'+'F:',_0x51cbe);}finally{document['body'][_0x52f10b(0x3de)+_0x52f10b(0x2d6)](_0x3303c0);}}function imprimirDocumento(_0x6ae203,_0x264c7d){imprimirHtml(montarHTMLImpressao(_0x6ae203,_0x264c7d),_0x264c7d);}function imprimirHtml(_0x1eba69,_0x42e5e0){const _0x5bd39b=_0x343bb3;let _0x8be364=document[_0x5bd39b(0xd1)+_0x5bd39b(0x174)]('printFra'+'me');!_0x8be364&&(_0x8be364=document[_0x5bd39b(0x193)+_0x5bd39b(0x410)](_0x5bd39b(0x2f7)),_0x8be364['id']=_0x5bd39b(0x40f)+'me',_0x8be364[_0x5bd39b(0x307)][_0x5bd39b(0x22a)]=_0x5bd39b(0x122)+_0x5bd39b(0x324)+_0x5bd39b(0x109)+'ottom:0;'+_0x5bd39b(0x1d5)+_0x5bd39b(0x247)+'ht:600px'+';border:'+_0x5bd39b(0xc9)+_0x5bd39b(0x25a)+_0x5bd39b(0x391),document[_0x5bd39b(0x340)][_0x5bd39b(0x1c3)+_0x5bd39b(0x2d6)](_0x8be364)),_0x8be364[_0x5bd39b(0x16b)]=function(){const _0x238612=_0x5bd39b,_0x3561cd=_0x8be364[_0x238612(0x2a0)+'indow'];if(!_0x3561cd)return;setTimeout(()=>{const _0x6f1c04=_0x238612;try{if(_0x42e5e0===_0x6f1c04(0x299)&&_0x3561cd[_0x6f1c04(0x231)]&&_0x3561cd['document'][_0x6f1c04(0x1a3)+_0x6f1c04(0x1f5)]){const _0x126775=_0x3561cd[_0x6f1c04(0x231)],_0x3dc39a=_0x126775[_0x6f1c04(0x1a3)+'ector'](_0x6f1c04(0x126)+_0x6f1c04(0x13b));if(_0x3dc39a&&_0x3dc39a[_0x6f1c04(0x206)+_0x6f1c04(0xdf)]>0x1*0x2398+0x2330+-0x46c8){const _0x4c83d5=Math[_0x6f1c04(0x3b3)](0x1*0x172f+0x6f*0xe+-0x1d23,Math[_0x6f1c04(0x148)](_0x3dc39a['scrollHe'+_0x6f1c04(0xdf)]/(-0x5b*0x43+-0x15a8+-0x1*-0x2dd9)*(-0x69b+-0x49*0x16+0xcfa+0.3999999999999986))),_0x5c5a05=_0x126775[_0x6f1c04(0x193)+_0x6f1c04(0x410)](_0x6f1c04(0x307));_0x5c5a05[_0x6f1c04(0x2e3)+'ent']=_0x6f1c04(0x21f)+_0x6f1c04(0x194)+(_0x4c83d5+(0x29*0x7f+0x1a2e+-0x2e81))+(_0x6f1c04(0x16f)+'n:0}@med'+'ia\x20print'+_0x6f1c04(0x36d)+_0x6f1c04(0xe8)+_0x6f1c04(0x2fc)+_0x6f1c04(0x24b)),_0x126775[_0x6f1c04(0x1e1)]['appendCh'+_0x6f1c04(0x2d6)](_0x5c5a05);}}_0x3561cd['focus'](),_0x3561cd[_0x6f1c04(0x2d2)]();}catch(_0x28f3d9){console[_0x6f1c04(0x23b)](_0x6f1c04(0x267)+_0x6f1c04(0x11a)+':',_0x28f3d9);}},-0x3f7+-0x1a5*-0x2+0x111);},_0x8be364['srcdoc']=_0x1eba69;}function gerarDocumentoFechamentoCaixa(_0x4b4536,_0x19fccd){const _0x50e696=_0x343bb3,_0x40e5b0=appConfig[_0x50e696(0x38c)+_0x50e696(0x14b)]||_0x50e696(0x2c9)+_0x50e696(0x3ba),_0x51614c=appConfig['pdf_cnpj']||'',_0x202243=getComprasDaSessao(_0x4b4536,_0x19fccd['id']),_0x9f82e2=_0x202243[_0x50e696(0x138)](_0x2ab0dc=>_0x2ab0dc[_0x50e696(0x38a)+_0x50e696(0x25c)]!=='pix'),_0x3755e8=getEstornosDaSessao(_0x4b4536,_0x19fccd['id']),_0x31fd49=getTotalEstornosMetodo(_0x4b4536,_0x19fccd['id'],_0x50e696(0x1ca)),_0x547275=getTotalEstornosMetodo(_0x4b4536,_0x19fccd['id'],_0x50e696(0x2ae)),_0x45502b=_0x9f82e2[_0x50e696(0x15b)]((_0x26c98a,_0x1c7ee7)=>_0x26c98a+_0x1c7ee7['totalPri'+'ce'],0x25ac+0xffa+-0x35a6),_0xb1f7ad=getTotalSuprimentos(_0x19fccd),_0x1d6c44=_0x19fccd[_0x50e696(0x344)]+_0xb1f7ad+_0x31fd49-_0x45502b,_0x2266f0=getPixComprasDaSessao(_0x4b4536,_0x19fccd['id']),_0x57796=_0x2266f0['reduce']((_0x389430,_0x2b2943)=>_0x389430+_0x2b2943[_0x50e696(0x3ce)+'ce'],0x16ff+0x15b9+0xc*-0x3ba)-_0x547275,_0xfccb83=getComprasDaSessao(_0x4b4536,_0x19fccd['id'])[_0x50e696(0x138)](_0x5cfaeb=>isCompraCancelada(_0x5cfaeb['id'])),_0x811ba=_0x19fccd[_0x50e696(0x13f)]===_0x50e696(0x404)?_0x50e696(0x1d2):_0x50e696(0x339),_0x3077b8=formatDate(_0x4b4536),_0x2ffaf8=new Date()['toLocale'+_0x50e696(0x117)](_0x50e696(0x278)),_0x2ed4c2=_0x202243[_0x50e696(0x1e2)](_0x33f658=>'\x0a\x20\x20\x20\x20<di'+_0x50e696(0x2f4)+esc(_0x33f658[_0x50e696(0xef)+'me']||'-')+(_0x33f658['paymentM'+_0x50e696(0x25c)]===_0x50e696(0x2ae)?_0x50e696(0x2b0):'')+(isCompraCancelada(_0x33f658['id'])?_0x50e696(0x3ef)+_0x50e696(0x3ac):'')+('</span><'+'span>R$\x20')+formatNumber(_0x33f658[_0x50e696(0x3ce)+'ce'])+('</span><'+_0x50e696(0x179)+_0x50e696(0x28b)+_0x50e696(0x1d0)+_0x50e696(0x317))+esc(_0x33f658[_0x50e696(0x32c)][_0x50e696(0x1e2)](_0x3f6b80=>_0x3f6b80[_0x50e696(0x320)+_0x50e696(0x3d9)])['join'](',\x20'))+_0x50e696(0x25e))[_0x50e696(0x2ec)](''),_0x319962=_0x3755e8[_0x50e696(0x1e2)](_0x31346f=>{const _0x460456=_0x50e696,_0x4eb5c9=getCompraById(_0x31346f['compraId']),_0x35e9cb=(_0x31346f[_0x460456(0x2ab)+_0x460456(0x1a9)]||_0x460456(0x1ca))==='pix'?_0x460456(0x212):_0x460456(0x3fd);return _0x460456(0x2a3)+_0x460456(0x1ed)+_0x460456(0x3dd)+_0x31346f['compraId']+(_0x4eb5c9?'\x20'+esc(_0x4eb5c9[_0x460456(0xef)+'me']||''):'')+'\x20('+_0x35e9cb+(_0x460456(0x359)+'<span>+R'+'$\x20')+formatNumber(Number(_0x31346f[_0x460456(0x2b8)+_0x460456(0x1c9)])||-0xdbb+0x223b+0xa40*-0x2)+('</span><'+_0x460456(0x179)+_0x460456(0x28b)+'lass=\x22cp'+_0x460456(0x317))+esc(_0x31346f['motivo'])+'</div>';})[_0x50e696(0x2ec)]('');return _0x50e696(0x35a)+_0x50e696(0x15e)+_0x50e696(0x10b)+'\x20bobina\x22'+_0x50e696(0x346)+'<div\x20cla'+'ss=\x22cpv-'+'head\x22>\x0a\x20'+_0x50e696(0x362)+_0x50e696(0x2e1)+'s=\x22cpv-b'+_0x50e696(0x128)+esc(_0x40e5b0)+(_0x50e696(0x30b)+'\x20\x20\x20\x20\x20\x20\x20')+(_0x51614c?_0x50e696(0x106)+_0x50e696(0x323)+'brand-su'+_0x50e696(0x1bc)+esc(_0x51614c)+_0x50e696(0x25e):'')+(_0x50e696(0x123)+'\x20<div\x20cl'+_0x50e696(0x1cf)+_0x50e696(0x30f)+_0x50e696(0x272)+_0x50e696(0x311)+'IXA</div'+'>\x0a\x20\x20\x20\x20\x20\x20'+_0x50e696(0x28b)+_0x50e696(0x1d0)+_0x50e696(0x1cc))+_0x3077b8+(_0x50e696(0x3e6)+';\x20')+esc(_0x19fccd['periodo'])+(_0x50e696(0x30b)+'\x20\x20\x20\x20\x20</d'+_0x50e696(0x167)+'\x20\x20<div\x20c'+_0x50e696(0x1d0)+'v-rule\x22>'+_0x50e696(0x30b)+'\x20\x20\x20\x20\x20<di'+_0x50e696(0x15e)+'\x22cpv-lin'+_0x50e696(0x1ac)+_0x50e696(0x14d)+_0x50e696(0x2f8)+_0x50e696(0x21d)+_0x50e696(0x173)+'tatus</s'+_0x50e696(0xe9)+'n>')+_0x811ba+(_0x50e696(0x1ba)+_0x50e696(0x179)+_0x50e696(0x2da)+_0x50e696(0x29d)+_0x50e696(0x36b)+'cpv-lb\x22>'+'Sess&ati'+'lde;o</s'+_0x50e696(0xe9)+_0x50e696(0x403))+_0x19fccd['id']+('</span><'+_0x50e696(0x179)+'\x20\x20\x20\x20\x20\x20')+(_0x19fccd[_0x50e696(0x11e)+'m']?_0x50e696(0x2a3)+_0x50e696(0x23f)+_0x50e696(0x14a)+'\x22>Fechad'+_0x50e696(0x1e5)+_0x50e696(0x40b)+'>'+esc(_0x19fccd[_0x50e696(0x11e)+'m'])+('</span><'+_0x50e696(0x264)):'')+(_0x50e696(0x123)+_0x50e696(0x3f9)+_0x50e696(0x172)+'s=\x22cpv-l'+'b\x22>Saldo'+_0x50e696(0x3dc)+_0x50e696(0x1ba)+_0x50e696(0x1ff))+formatNumber(_0x19fccd['abertura'])+(_0x50e696(0x1ba)+'/div>\x0a\x20\x20'+_0x50e696(0x2da)+_0x50e696(0x29d)+_0x50e696(0x36b)+_0x50e696(0x3a9)+_0x50e696(0x365)+_0x50e696(0x3b6)+_0x50e696(0x10c)+_0x50e696(0x27c))+formatNumber(_0xb1f7ad)+(_0x50e696(0x1ba)+_0x50e696(0x179)+_0x50e696(0x2da)+_0x50e696(0x29d)+'\x20class=\x22'+_0x50e696(0x3a9)+'Total\x20de'+_0x50e696(0x1d1)+'/span><s'+_0x50e696(0x35c))+formatNumber(_0x45502b)+('</span><'+_0x50e696(0x179)+_0x50e696(0x3c2))+(_0x31fd49>0x2*0x914+0x2278*0x1+0xd28*-0x4?_0x50e696(0x2a3)+'an\x20class'+_0x50e696(0x14a)+_0x50e696(0x3d4)+_0x50e696(0x19c)+_0x50e696(0x2fa)+_0x50e696(0x237)+_0x50e696(0x26c)+formatNumber(_0x31fd49)+(_0x50e696(0x1ba)+_0x50e696(0x264)):'')+('\x0a\x20\x20\x20\x20\x20\x20\x20'+'\x20')+(_0x57796>-0x2101+0x1735+0x9cc||_0x547275>-0x1c81+-0x9c2+-0xcc1*-0x3?_0x50e696(0x2a3)+_0x50e696(0x23f)+_0x50e696(0x14a)+'\x22>Pix</s'+_0x50e696(0xe9)+_0x50e696(0x284)+formatNumber(_0x57796)+(_0x50e696(0x1ba)+'/div>'):'')+(_0x50e696(0x123)+'\x20')+(_0x547275>0x116*-0xf+0x2534+-0x14ea?_0x50e696(0x2a3)+_0x50e696(0x23f)+'=\x22cpv-lb'+_0x50e696(0x3d4)+'ções\x20(Pi'+_0x50e696(0xfd)+_0x50e696(0x288)+'$\x20'+formatNumber(_0x547275)+(_0x50e696(0x1ba)+'/div>'):'')+(_0x50e696(0x123)+'\x20')+(_0xfccb83[_0x50e696(0x2ad)]>0x80c+0x907*0x4+-0x2c28?_0x50e696(0x2a3)+_0x50e696(0x23f)+'=\x22cpv-lb'+_0x50e696(0x104)+'ados</sp'+_0x50e696(0x40b)+'>'+_0xfccb83[_0x50e696(0x2ad)]+(_0x50e696(0x302)+_0x50e696(0x19a)+'v>'):'')+(_0x50e696(0x318)+_0x50e696(0x179)+_0x50e696(0x178)+'\x20class=\x22'+_0x50e696(0x190)+'l-caixa\x22'+_0x50e696(0x203)+'aldo</sp'+_0x50e696(0x40b)+_0x50e696(0x3ec))+formatNumber(_0x1d6c44)+(_0x50e696(0x1ba)+'/div>\x0a\x20\x20'+_0x50e696(0x35d))+(_0x319962?'<div\x20cla'+'ss=\x22cpv-'+_0x50e696(0x3d5)+_0x50e696(0x261)+_0x50e696(0x2ea)+_0x50e696(0x21d)+_0x50e696(0x232)+'\x22\x20style='+'\x22font-si'+_0x50e696(0x3b1)+_0x50e696(0x1ef)+'op:2px\x22>'+_0x50e696(0x26f)+'ES\x20DO\x20CA'+'IXA</div'+_0x50e696(0x346)+_0x50e696(0x106)+_0x50e696(0x323)+'lines\x22>'+_0x319962+_0x50e696(0x25e):'')+(_0x50e696(0x318)+_0x50e696(0x2e1)+_0x50e696(0x195)+'ule\x22></d'+_0x50e696(0x167)+_0x50e696(0x28b)+'lass=\x22cp'+_0x50e696(0x352)+_0x50e696(0x2cb)+_0x50e696(0x316)+_0x50e696(0x406)+'argin-to'+_0x50e696(0x175)+_0x50e696(0x3cf)+_0x50e696(0x3fb)+'tilde;O<'+_0x50e696(0x179)+'\x20\x20\x20\x20')+(_0x202243['length']?_0x50e696(0x106)+_0x50e696(0x323)+_0x50e696(0x166)+_0x2ed4c2+_0x50e696(0x25e):_0x50e696(0x106)+'ss=\x22cpv-'+_0x50e696(0x33c)+_0x50e696(0x37a)+'n>Nenhum'+'a\x20compra'+_0x50e696(0x1ba)+_0x50e696(0x3c0)+_0x50e696(0x289))+(_0x50e696(0x318)+_0x50e696(0x2e1)+_0x50e696(0x195)+_0x50e696(0x268)+_0x50e696(0x167)+_0x50e696(0x28b)+_0x50e696(0x1d0)+_0x50e696(0x378)+_0x50e696(0x2bc)+_0x50e696(0x1f3)+_0x50e696(0xdb)+'MENTO\x20FI'+_0x50e696(0x401)+_0x50e696(0x20e)+'\x20<div\x20cl'+_0x50e696(0x1cf)+_0x50e696(0x390)+_0x50e696(0x18b)+_0x50e696(0x2e8))+_0x2ffaf8+(_0x50e696(0xed)+_0x50e696(0x34c)+_0x50e696(0x408)+'/strong>'+'\x20&mdash;'+_0x50e696(0x3f6)+'\x20de\x20Comp'+_0x50e696(0x2f9)+_0x50e696(0x19f)+_0x50e696(0x186));}function montarHTMLImpressaoFechamento(_0xc8ef09,_0x4db699){const _0x1a4e92=_0x343bb3;return'<!DOCTYP'+'E\x20html><'+'html\x20lan'+_0x1a4e92(0x22c)+_0x1a4e92(0x37f)+_0x1a4e92(0x333)+_0x1a4e92(0x14e)+_0x1a4e92(0x1c0)+_0x1a4e92(0x1ae)+_0x1a4e92(0x32a)+'de\x20Caixa'+_0x1a4e92(0x158)+formatDate(_0xc8ef09)+('</title>'+_0x1a4e92(0x27a))+cpvPageCss(_0x1a4e92(0x299))+(_0x1a4e92(0x2e6)+_0x1a4e92(0x37b)+_0x1a4e92(0x322)+_0x1a4e92(0x208))+CPV_PRINT_CSS+('</style>'+'</head><'+'body>')+gerarDocumentoFechamentoCaixa(_0xc8ef09,_0x4db699)+(_0x1a4e92(0x226)+'/html>');}async function imprimirFechamentoBobina(_0x113b1e,_0x2c4137){const _0x21d339=_0x343bb3;let _0x53eb09=getSessao(_0x113b1e,_0x2c4137);!_0x53eb09&&typeof carregarSessoes===_0x21d339(0x33b)&&(await carregarSessoes(_0x113b1e),_0x53eb09=getSessao(_0x113b1e,_0x2c4137));if(!_0x53eb09)return;imprimirHtml(montarHTMLImpressaoFechamento(_0x113b1e,_0x53eb09),_0x21d339(0x299));}function exportarFechamentoBobina(){if(!caixaCurrentData||caixaCurrentSessionId===null)return;imprimirFechamentoBobina(caixaCurrentData,caixaCurrentSessionId);}
+// ======================== COMPROVANTE / IMPRESSÃO ========================
+let printPurchaseId = null;
+let printFormat = 'bobina';
+let printAfterSave = false;
+let printViewOnly = false;
+
+function getCompraById(id) { return purchases.find(p => p.id === id); }
+
+function esc(s) {
+  return String(s == null ? '' : s)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+}
+
+const CPV_PRINT_CSS = `
+.cpv-doc, .cpv-doc *{box-sizing:border-box}
+.cpv-doc{color:#111;font-family:'Courier New',Courier,monospace}
+@media screen{.cpv-doc.bobina{width:270px}}
+.cpv-doc.bobina{max-width:100%;margin:0 auto;padding:8px 6px;font-size:11px;line-height:1.4;overflow-wrap:break-word;word-break:break-word}
+.cpv-doc.bobina, .cpv-doc.bobina *{font-weight:700 !important;color:#000 !important}
+.cpv-doc .cpv-cancel-banner{border:2px solid #B91C1C;color:#B91C1C;text-align:center;font-weight:700;font-size:12px;padding:4px;margin-bottom:4px}
+.cpv-doc .cpv-cancel-info{text-align:center;font-size:10px;line-height:1.5;overflow-wrap:break-word;word-break:break-word}
+.cpv-doc.bobina .cpv-cancel-banner, .cpv-doc.bobina .cpv-cancel-banner *{color:#000 !important;border-color:#000 !important}
+.cpv-doc.bobina .cpv-head{text-align:center}
+.cpv-doc.bobina .cpv-brand{font-size:15px;font-weight:700;letter-spacing:1px}
+.cpv-doc.bobina .cpv-brand-sub{font-size:10px;color:#333}
+.cpv-doc.bobina .cpv-title{margin-top:6px;font-size:12px;font-weight:700;text-align:center}
+.cpv-doc.bobina .cpv-meta{margin-top:4px;font-size:10px;text-align:center;color:#222}
+.cpv-doc .cpv-rule{border-top:1px dashed #999;margin:6px 0}
+.cpv-doc.bobina .cpv-item{margin-bottom:4px;font-size:10px}
+.cpv-doc.bobina .cpv-item .cpv-item-name{font-weight:700}
+.cpv-doc.bobina .cpv-item .cpv-item-line{display:flex;justify-content:space-between;align-items:baseline;gap:6px}
+.cpv-doc.bobina .cpv-item .cpv-item-line span:first-child{flex:1 1 auto;min-width:0;overflow-wrap:break-word}
+.cpv-doc.bobina .cpv-item .cpv-item-line span:last-child{flex-shrink:0;white-space:nowrap}
+.cpv-doc.bobina .cpv-total{display:flex;justify-content:space-between;font-size:13px;font-weight:700;margin-top:4px}
+.cpv-doc.bobina .cpv-total span:first-child{flex:1 1 auto;min-width:0}
+.cpv-doc.bobina .cpv-total span:last-child{flex-shrink:0;white-space:nowrap}
+.cpv-doc.bobina .cpv-lines{margin-top:6px;font-size:10px}
+.cpv-doc.bobina .cpv-lines div{display:flex;justify-content:space-between;gap:8px;margin:2px 0;min-width:0}
+.cpv-doc.bobina .cpv-lines div > span:first-child{flex:0 0 auto;overflow-wrap:break-word}
+.cpv-doc.bobina .cpv-lines div > span:last-child{flex:1 1 auto;min-width:0;text-align:right;overflow-wrap:break-word}
+.cpv-doc.bobina .cpv-lines .cpv-lb{font-weight:700}
+.cpv-doc.bobina .cpv-lines .cpv-num{white-space:nowrap;flex-shrink:0}
+.cpv-doc.bobina .cpv-lines .cpv-sub{font-size:9px;color:#444;line-height:1.3;margin:-1px 0 4px;text-align:left}
+.cpv-doc.bobina .cpv-total-caixa{display:flex;justify-content:space-between;font-size:13px;font-weight:700;margin-top:6px}
+.cpv-doc.bobina .cpv-total-caixa span:first-child{flex:1 1 auto;min-width:0}
+.cpv-doc.bobina .cpv-total-caixa span:last-child{flex-shrink:0;white-space:nowrap}
+.cpv-doc.bobina .cpv-obs{margin-top:6px;font-size:10px;white-space:pre-wrap;overflow-wrap:break-word}
+.cpv-doc.bobina .cpv-foot{margin-top:10px;text-align:center;font-size:10px}
+.cpv-doc.bobina .cpv-foot strong{font-size:11px}
+.cpv-doc.bobina .cpv-note{margin-top:8px;text-align:center;font-size:10px;font-weight:700;letter-spacing:1px}
+.cpv-doc.a4{font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.5;color:#111}
+.cpv-doc.a4 .cpv-a4-head{width:100%;border-collapse:collapse}
+.cpv-doc.a4 .cpv-brand{font-size:20px;font-weight:800;color:#1F376B}
+.cpv-doc.a4 .cpv-brand-sub{font-size:11px;color:#555}
+.cpv-doc.a4 .cpv-emit{font-size:11px;color:#555;text-align:right}
+.cpv-doc.a4 .cpv-a4-title{margin:12px 0 8px;font-size:16px;font-weight:800;color:#1F376B;text-align:center;letter-spacing:1px}
+.cpv-doc.a4 .cpv-a4-meta{width:100%;border-collapse:collapse;margin-bottom:12px}
+.cpv-doc.a4 .cpv-a4-meta td{border:1px solid #D1D5DB;padding:5px 8px;font-size:12px}
+.cpv-doc.a4 .cpv-a4-meta td.k{background:#F3F4F6;font-weight:700;width:110px}
+.cpv-doc.a4 .doc-table{width:100%;border-collapse:collapse}
+.cpv-doc.a4 .doc-table th,.cpv-doc.a4 .doc-table td{border:1px solid #D1D5DB;padding:5px 8px;font-size:12px}
+.cpv-doc.a4 .doc-table th{background:#F3F4F6;font-weight:700;text-align:left}
+.cpv-doc.a4 .doc-table td.ta-r,.cpv-doc.a4 .doc-table th.ta-r{text-align:right}
+.cpv-doc.a4 .cpv-a4-total{display:flex;justify-content:space-between;align-items:center;margin-top:10px;padding:10px 12px;background:#F8FAFC;border:1px solid #D1D5DB;border-radius:4px}
+.cpv-doc.a4 .cpv-a4-total span{font-size:14px;font-weight:700}
+.cpv-doc.a4 .cpv-a4-total .cpv-total-val{font-size:18px;color:#1F376B}
+.cpv-doc.a4 .cpv-a4-obs{margin-top:12px;font-size:12px;white-space:pre-wrap}
+.cpv-doc.a4 .cpv-sign{margin-top:60px;font-size:12px;text-align:center}
+.cpv-doc.a4 .cpv-sign .cpv-sign-line{display:inline-block;border-top:1px solid #111;padding-top:4px;min-width:260px}
+.cpv-doc.a4 .cpv-a4-note{margin-top:14px;font-size:11px;text-align:center;color:#555;font-style:italic}
+.cpv-doc.a4 .cpv-foot{margin-top:24px;font-size:10px;color:#6B7280;text-align:center}
+`;
+
+function cpvPageCss(formato) {
+  if (formato === 'a4') return '@media print{@page{size:A4;margin:14mm}.cpv-doc.a4{width:100%}}';
+  return '@page{size:80mm 297mm;margin:0}@media print{html,body{margin:0;padding:0}.cpv-doc.bobina{width:72mm;margin:0 auto}}';
+}
+
+function gerarDocumentoCompra(p, formato, comEstilo) {
+  const bobina = formato !== 'a4';
+  const nome = appConfig.pdf_company_name || 'Metal Minas';
+  const cnpj = appConfig.pdf_cnpj || '';
+  const pagamento = p.paymentMethod === 'pix' ? 'Pix' : 'Dinheiro';
+  const emitido = new Date().toLocaleString('pt-BR');
+  const dataFmt = formatDate(p.date);
+  const produtos = p.items || [];
+  const total = p.totalPrice || produtos.reduce((s, it) => s + it.totalPrice, 0);
+  const ci = (typeof getCompraCancelamento === 'function') ? getCompraCancelamento(p.id) : null;
+  const cancelHtml = ci ? `<div class="cpv-cancel-banner">DOCUMENTO CANCELADO</div>
+    <div class="cpv-cancel-info">Motivo: ${esc(ci.motivo)}<br>Cancelado por: ${esc(ci.canceladoPor || '-')} em ${ci.canceladoEm ? new Date(ci.canceladoEm).toLocaleString('pt-BR') : '-'}</div>` : '';
+
+  let body;
+  if (bobina) {
+    const itens = produtos.map(it => `
+      <div class="cpv-item">
+        <div class="cpv-item-name">${esc(it.productName)}</div>
+        <div class="cpv-item-line"><span>${formatNumber(it.quantity)} kg &times; R$ ${formatNumber(it.unitPrice)}</span><span>${formatNumber(it.totalPrice)}</span></div>
+      </div>`).join('');
+    body = `
+      <div class="cpv-doc bobina">
+        <div class="cpv-head">
+          <div class="cpv-brand">${esc(nome)}</div>
+          ${cnpj ? `<div class="cpv-brand-sub">CNPJ ${esc(cnpj)}</div>` : ''}
+          <div class="cpv-title">COMPROVANTE DE COMPRA</div>
+          <div class="cpv-meta">Compra #${p.id} &middot; ${dataFmt}</div>
+        </div>
+        <div class="cpv-rule"></div>
+        ${cancelHtml}
+        ${itens}
+        <div class="cpv-rule"></div>
+        <div class="cpv-total"><span>TOTAL</span><span>R$ ${formatNumber(total)}</span></div>
+        <div class="cpv-lines">
+          <div><span class="cpv-lb">Pagamento</span><span>${pagamento}</span></div>
+          ${p.pessoaName ? `<div><span class="cpv-lb">Pessoa</span><span>${esc(p.pessoaName)}</span></div>` : ''}
+          <div><span class="cpv-lb">Emiss&atilde;o</span><span>${emitido}</span></div>
+        </div>
+        ${p.notes ? `<div class="cpv-obs">Obs: ${esc(p.notes)}</div>` : ''}
+        <div class="cpv-rule"></div>
+        <div class="cpv-note">N&Atilde;O &Eacute; DOCUMENTO FISCAL</div>
+        <div class="cpv-foot"><strong>Obrigado pela prefer&ecirc;ncia!</strong><br>Comp Vision &mdash; Sistema de Compras</div>
+      </div>`;
+  } else {
+    const itens = `
+      <table class="doc-table">
+        <thead><tr><th>Produto</th><th class="ta-r">Qtd (kg)</th><th class="ta-r">R$/kg</th><th class="ta-r">Total</th></tr></thead>
+        <tbody>${produtos.map(it => `
+          <tr><td>${esc(it.productName)}</td><td class="ta-r">${formatNumber(it.quantity)}</td><td class="ta-r">${formatNumber(it.unitPrice)}</td><td class="ta-r">${formatNumber(it.totalPrice)}</td></tr>`).join('')}
+        </tbody>
+      </table>`;
+    body = `
+      <div class="cpv-doc a4">
+        <table class="cpv-a4-head">
+          <tr>
+            <td><div class="cpv-brand">${esc(nome)}</div><div class="cpv-brand-sub">${cnpj ? 'CNPJ ' + esc(cnpj) : ''}</div></td>
+            <td class="cpv-emit">Emitido em: ${emitido}</td>
+          </tr>
+        </table>
+        <div class="cpv-rule"></div>
+        <div class="cpv-a4-title">COMPROVANTE DE COMPRA</div>
+        ${cancelHtml}
+        <table class="cpv-a4-meta">
+          <tr><td class="k">Compra n&ordm;</td><td>#${p.id}</td><td class="k">Data</td><td>${dataFmt}</td></tr>
+          <tr><td class="k">Pessoa</td><td colspan="3">${esc(p.pessoaName || '-')}</td></tr>
+          <tr><td class="k">Pagamento</td><td colspan="3">${pagamento}</td></tr>
+        </table>
+        ${itens}
+        <div class="cpv-a4-total"><span>Valor Total</span><span class="cpv-total-val">R$ ${formatNumber(total)}</span></div>
+        ${p.notes ? `<div class="cpv-a4-obs"><strong>Observa&ccedil;&otilde;es:</strong><br>${esc(p.notes)}</div>` : ''}
+        <div class="cpv-a4-note">N&atilde;o &eacute; documento fiscal.</div>
+        <div class="cpv-sign"><span class="cpv-sign-line">Assinatura do fornecedor</span></div>
+        <div class="cpv-foot">Documento gerado pelo Comp Vision &mdash; ${esc(nome)}</div>
+      </div>`;
+  }
+
+  return comEstilo ? '<style>' + CPV_PRINT_CSS + '</style>' + body : body;
+}
+
+function montarHTMLImpressao(p, formato) {
+  const nome = appConfig.pdf_company_name || 'Metal Minas';
+  return '<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><title>Comprovante de Compra #' + p.id + ' - ' + esc(nome) + '</title><style>' + cpvPageCss(formato) + 'body{margin:0;background:#fff}' + CPV_PRINT_CSS + '</style></head><body>' + gerarDocumentoCompra(p, formato, false) + '</body></html>';
+}
+
+function getPrintPrefs() {
+  try {
+    return {
+      format: localStorage.getItem('cv_print_format') === 'a4' ? 'a4' : 'bobina',
+      direct: localStorage.getItem('cv_print_direct') === '1',
+    };
+  } catch (e) { return { format: 'bobina', direct: false }; }
+}
+
+function setPrintDefaultFormat(fmt) {
+  const f = fmt === 'a4' ? 'a4' : 'bobina';
+  printFormat = f;
+  try { localStorage.setItem('cv_print_format', f); } catch (e) {}
+}
+
+function setPrintDirect(enabled) {
+  try { localStorage.setItem('cv_print_direct', enabled ? '1' : '0'); } catch (e) {}
+  const status = document.getElementById('printDirectStatus');
+  if (status) {
+    status.textContent = enabled ? 'Ativada' : 'Desativada';
+    status.className = 'badge ' + (enabled ? 'badge-green' : 'badge-gray');
+  }
+}
+
+function renderPrintPreview() {
+  const preview = document.getElementById('printPreview');
+  if (!preview) return;
+  const p = getCompraById(printPurchaseId);
+  preview.className = 'print-preview format-' + printFormat;
+  preview.innerHTML = p ? gerarDocumentoCompra(p, printFormat, true) : '';
+}
+
+function openPrintModal(purchase, opts) {
+  printPurchaseId = purchase.id;
+  printAfterSave = !!(opts && opts.afterSave);
+  printViewOnly = !!(opts && opts.viewOnly);
+  printFormat = getPrintPrefs().format;
+  document.getElementById('printModalTitle').textContent = 'Comprovante de Compra #' + purchase.id;
+  document.getElementById('printModalMessage').textContent = printViewOnly
+    ? 'Visualiza\u00e7\u00e3o do comprovante desta compra.'
+    : (printAfterSave
+        ? 'Compra registrada com sucesso. Deseja imprimir o comprovante?'
+        : 'Visualize o comprovante e, se quiser, imprima em bobina ou A4.');
+  document.getElementById('printModalCancelText').textContent = (printAfterSave && !printViewOnly) ? 'Somente Salvar' : 'Fechar';
+  const printBtn = document.getElementById('printModalPrintBtn');
+  if (printBtn) printBtn.style.display = printViewOnly ? 'none' : 'inline-flex';
+  setPrintFormat(printFormat);
+  document.getElementById('printModalOverlay').classList.add('open');
+  document.body.style.overflow = 'hidden';
+  setTimeout(() => { if (typeof lucide !== 'undefined') lucide.createIcons(); }, 50);
+}
+
+function closePrintModal() {
+  document.getElementById('printModalOverlay').classList.remove('open');
+  document.body.style.overflow = '';
+  printPurchaseId = null;
+  printViewOnly = false;
+}
+
+function setPrintFormat(fmt) {
+  printFormat = fmt === 'a4' ? 'a4' : 'bobina';
+  try { localStorage.setItem('cv_print_format', printFormat); } catch (e) {}
+  document.querySelectorAll('.print-format-option').forEach(el => {
+    el.classList.toggle('active', el.dataset.format === printFormat);
+  });
+  const tip = document.getElementById('printBobinaTip');
+  if (tip) tip.style.display = printFormat === 'bobina' ? 'block' : 'none';
+  renderPrintPreview();
+}
+
+function doPrintPurchase() {
+  const p = getCompraById(printPurchaseId);
+  if (!p) return;
+  closePrintModal();
+  imprimirDocumento(p, printFormat);
+}
+
+function verCompraDoc(id) {
+  const p = getCompraById(id);
+  if (p) openPrintModal(p, { afterSave: false, viewOnly: true });
+}
+
+function imprimirCompraDoc(id) {
+  const p = getCompraById(id);
+  if (p) openPrintModal(p, { afterSave: false });
+}
+
+function addCanvasToPdf(pdf, canvas, x, y, imgW, imgH, pageH) {
+  const ratio = canvas.height / imgH;
+  const cortarImg = (sy, sh) => {
+    const c = document.createElement('canvas');
+    c.width = canvas.width;
+    c.height = sh;
+    c.getContext('2d').drawImage(canvas, 0, sy, canvas.width, sh, 0, 0, c.width, c.height);
+    return c.toDataURL('image/jpeg', 0.92);
+  };
+  let sy = 0;
+  let yy = y;
+  while (sy < imgH) {
+    const sh = Math.min(pageH - yy, imgH - sy);
+    pdf.addImage(cortarImg(Math.round(sy * ratio), Math.round(sh * ratio)), 'JPEG', x, yy, imgW, sh);
+    sy += sh;
+    if (sy < imgH) { pdf.addPage(); yy = 0; }
+  }
+}
+
+async function salvarCompraPDF() {
+  const p = getCompraById(printPurchaseId);
+  if (!p) return;
+  if (!window.jspdf || !window.html2canvas) {
+    showAlert('Biblioteca de PDF n\u00e3o carregada. Verifique sua conex\u00e3o e recarregue a p\u00e1gina.');
+    return;
+  }
+  const { jsPDF } = window.jspdf;
+  const formato = printFormat === 'a4' ? 'a4' : 'bobina';
+  const holder = document.createElement('div');
+  holder.style.cssText = 'position:absolute;left:-12000px;top:0;background:#fff;z-index:-1;' + (formato === 'a4' ? 'width:760px;' : '');
+  holder.innerHTML = gerarDocumentoCompra(p, formato, true);
+  document.body.appendChild(holder);
+  const docEl = holder.querySelector('.cpv-doc');
+  if (formato === 'bobina') {
+    docEl.style.width = '72mm';
+    docEl.style.maxWidth = '72mm';
+    docEl.style.margin = '0';
+  }
+  try {
+    const canvas = await html2canvas(docEl, { scale: 2, backgroundColor: '#ffffff', useCORS: true, windowWidth: docEl.scrollWidth, windowHeight: docEl.scrollHeight });
+    if (formato === 'a4') {
+      const pdf = new jsPDF({ unit: 'pt', format: 'a4' });
+      const pageW = pdf.internal.pageSize.getWidth();
+      const pageH = pdf.internal.pageSize.getHeight();
+      const margin = 28;
+      const imgW = pageW - margin * 2;
+      const imgH = canvas.height * imgW / canvas.width;
+      addCanvasToPdf(pdf, canvas, margin, margin, imgW, imgH, pageH);
+      pdf.save('Comprovante_Compra_' + p.id + '.pdf');
+    } else {
+      const pdfH = Math.max(30, Math.ceil(canvas.height * 72 / canvas.width));
+      const pdf = new jsPDF({ unit: 'mm', format: [72, pdfH] });
+      const pageW = pdf.internal.pageSize.getWidth();
+      const pageH = pdf.internal.pageSize.getHeight();
+      const imgW = pageW;
+      const imgH = canvas.height * imgW / canvas.width;
+      addCanvasToPdf(pdf, canvas, 0, 0, imgW, imgH, pageH);
+      pdf.save('Comprovante_Compra_' + p.id + '_Bobina.pdf');
+    }
+    showNotification('PDF gerado com sucesso', 'success');
+  } catch (e) {
+    console.error('Erro ao gerar PDF:', e);
+  } finally {
+    document.body.removeChild(holder);
+  }
+}
+
+function imprimirDocumento(p, formato) {
+  imprimirHtml(montarHTMLImpressao(p, formato), formato);
+}
+
+function imprimirHtml(html, formato) {
+  let frame = document.getElementById('printFrame');
+  if (!frame) {
+    frame = document.createElement('iframe');
+    frame.id = 'printFrame';
+    frame.style.cssText = 'position:fixed;right:0;bottom:0;width:300px;height:600px;border:0;visibility:hidden;';
+    document.body.appendChild(frame);
+  }
+  frame.onload = function () {
+    const w = frame.contentWindow;
+    if (!w) return;
+    setTimeout(() => {
+      try {
+        if (formato === 'bobina' && w.document && w.document.querySelector) {
+          const doc = w.document;
+          const el = doc.querySelector('.cpv-doc.bobina');
+          if (el && el.scrollHeight > 0) {
+            // Altura real do conteúdo em mm + avanço mínimo para o corte.
+            // Mínimo de 84mm para a página nunca ficar "deitada" (altura < largura de 80mm).
+            const hmm = Math.max(84, Math.ceil(el.scrollHeight / 96 * 25.4));
+            const st = doc.createElement('style');
+            st.textContent = '@page{size:80mm ' + (hmm + 4) + 'mm;margin:0}@media print{html,body{margin:0;padding:0}}';
+            doc.head.appendChild(st);
+          }
+        }
+        w.focus(); w.print();
+      } catch (e) { console.error('Erro ao imprimir:', e); }
+    }, 100);
+  };
+  frame.srcdoc = html;
+}
+
+// ======================== FECHAMENTO DE CAIXA (BOBINA) ========================
+function gerarDocumentoFechamentoCaixa(data, sessao) {
+  const nome = appConfig.pdf_company_name || 'Metal Minas';
+  const cnpj = appConfig.pdf_cnpj || '';
+  const compras = getComprasDaSessao(data, sessao.id);
+  const comprasDinheiro = compras.filter(p => p.paymentMethod !== 'pix');
+  const estornos = getEstornosDaSessao(data, sessao.id);
+  const estornosDinheiro = getTotalEstornosMetodo(data, sessao.id, 'dinheiro');
+  const totalSaidas = comprasDinheiro.reduce((s, p) => s + p.totalPrice, 0);
+  const totalSupr = getTotalSuprimentos(sessao);
+  const saldo = sessao.abertura + totalSupr + estornosDinheiro - totalSaidas;
+  const pixCompras = getPixComprasDaSessao(data, sessao.id);
+  const pixTotal = pixCompras.reduce((s, p) => s + p.totalPrice, 0);
+  const canceladas = getComprasDaSessao(data, sessao.id).filter(p => isCompraCancelada(p.id));
+  const statusLabel = sessao.status === 'aberto' ? 'Aberto' : 'Fechado';
+  const dataFmt = formatDate(data);
+  const emitido = new Date().toLocaleString('pt-BR');
+
+  const itensDinheiro = comprasDinheiro.map(c => `
+    <div><span>${esc(c.pessoaName || '-')}${isCompraCancelada(c.id) ? ' *CANCELADO*' : ''}</span><span class="cpv-num">R$ ${formatNumber(c.totalPrice)}</span></div>
+    <div class="cpv-sub">${esc(c.items.map(it => it.productName).join(', '))}</div>`).join('');
+
+  const itensPix = pixCompras.map(c => `
+    <div><span>${esc(c.pessoaName || '-')}${isCompraCancelada(c.id) ? ' *CANCELADO*' : ''}</span><span class="cpv-num">R$ ${formatNumber(c.totalPrice)}</span></div>
+    <div class="cpv-sub">${esc(c.items.map(it => it.productName).join(', '))}</div>`).join('');
+
+  const estornosDinheiroHtml = estornos.filter(c => (c.metodoDevolucao || 'dinheiro') !== 'pix').map(c => {
+    const original = getCompraById(c.compraId);
+    return `<div><span>Devol. #${c.compraId}${original ? ' ' + esc(original.pessoaName || '') : ''}</span><span class="cpv-num">+R$ ${formatNumber(Number(c.valorEstornado) || 0)}</span></div>` + (c.motivo ? `<div class="cpv-sub">${esc(c.motivo)}</div>` : '');
+  }).join('');
+
+  const estornosPixHtml = estornos.filter(c => (c.metodoDevolucao || 'dinheiro') === 'pix').map(c => {
+    const original = getCompraById(c.compraId);
+    return `<div><span>Devol. #${c.compraId}${original ? ' ' + esc(original.pessoaName || '') : ''}</span><span class="cpv-num">+R$ ${formatNumber(Number(c.valorEstornado) || 0)}</span></div>` + (c.motivo ? `<div class="cpv-sub">${esc(c.motivo)}</div>` : '');
+  }).join('');
+
+  return `
+    <div class="cpv-doc bobina">
+      <div class="cpv-head">
+        <div class="cpv-brand">${esc(nome)}</div>
+        ${cnpj ? `<div class="cpv-brand-sub">CNPJ ${esc(cnpj)}</div>` : ''}
+        <div class="cpv-title">FECHAMENTO DE CAIXA</div>
+        <div class="cpv-meta">${dataFmt} &middot; ${esc(sessao.periodo)}</div>
+      </div>
+      <div class="cpv-rule"></div>
+      <div class="cpv-lines">
+        <div><span class="cpv-lb">Status</span><span>${statusLabel}</span></div>
+        <div><span class="cpv-lb">Sess&atilde;o</span><span>#${sessao.id}</span></div>
+        ${sessao.fechadoEm ? `<div><span class="cpv-lb">Fechado em</span><span>${esc(sessao.fechadoEm)}</span></div>` : ''}
+      </div>
+
+      <div class="cpv-rule"></div>
+      <div class="cpv-title">DINHEIRO</div>
+      <div class="cpv-lines">
+        <div><span class="cpv-lb">Saldo inicial</span><span class="cpv-num">R$ ${formatNumber(sessao.abertura)}</span></div>
+        <div><span class="cpv-lb">Suprimentos</span><span class="cpv-num">R$ ${formatNumber(totalSupr)}</span></div>
+        <div><span class="cpv-lb">Sa\u00eddas (compras)</span><span class="cpv-num">R$ ${formatNumber(totalSaidas)}</span></div>
+        ${estornosDinheiro > 0 ? `<div><span class="cpv-lb">Devolu\u00e7\u00f5es (entrada)</span><span class="cpv-num">+R$ ${formatNumber(estornosDinheiro)}</span></div>` : ''}
+      </div>
+      <div class="cpv-total-caixa"><span>Saldo em dinheiro</span><span class="cpv-num">R$ ${formatNumber(saldo)}</span></div>
+      ${itensDinheiro ? `<div class="cpv-rule"></div>
+      <div class="cpv-title" style="font-size:11px;margin-top:2px">COMPRAS (DINHEIRO)</div>
+      <div class="cpv-lines">${itensDinheiro}</div>` : ''}
+      ${estornosDinheiroHtml ? `<div class="cpv-title" style="font-size:11px;margin-top:2px">DEVOLU\u00c7\u00d5ES (DINHEIRO)</div>
+      <div class="cpv-lines">${estornosDinheiroHtml}</div>` : ''}
+
+      ${pixCompras.length || estornosPixHtml ? `<div class="cpv-rule"></div>
+      <div class="cpv-title">PIX</div>
+      ${itensPix ? `<div class="cpv-title" style="font-size:11px;margin-top:2px">COMPRAS (PIX)</div>
+      <div class="cpv-lines">${itensPix}</div>` : ''}
+      ${estornosPixHtml ? `<div class="cpv-title" style="font-size:11px;margin-top:2px">DEVOLU\u00c7\u00d5ES (PIX)</div>
+      <div class="cpv-lines">${estornosPixHtml}</div>` : ''}
+      <div class="cpv-lines"><div><span class="cpv-lb">Total Pix</span><span class="cpv-num">R$ ${formatNumber(pixTotal)}</span></div></div>` : ''}
+
+      ${canceladas.length > 0 ? `<div class="cpv-rule"></div>
+      <div class="cpv-lines"><div><span class="cpv-lb">Cancelados</span><span>${canceladas.length} doc.</span></div></div>` : ''}
+      <div class="cpv-rule"></div>
+      <div class="cpv-note">N&Atilde;O &Eacute; DOCUMENTO FISCAL</div>
+      <div class="cpv-foot">Emitido em: ${emitido}<br><strong>Comp Vision</strong> &mdash; Sistema de Compras</div>
+    </div>`;
+}
+
+function montarHTMLImpressaoFechamento(data, sessao) {
+  return '<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><title>Fechamento de Caixa - ' + formatDate(data) + '</title><style>' + cpvPageCss('bobina') + 'body{margin:0;background:#fff}' + CPV_PRINT_CSS + '</style></head><body>' + gerarDocumentoFechamentoCaixa(data, sessao) + '</body></html>';
+}
+
+async function imprimirFechamentoBobina(data, sessionId) {
+  let sessao = getSessao(data, sessionId);
+  if (!sessao && typeof carregarSessoes === 'function') { await carregarSessoes(data); sessao = getSessao(data, sessionId); }
+  if (!sessao) return;
+  imprimirHtml(montarHTMLImpressaoFechamento(data, sessao), 'bobina');
+}
+
+function exportarFechamentoBobina() {
+  if (!caixaCurrentData || caixaCurrentSessionId === null) return;
+  imprimirFechamentoBobina(caixaCurrentData, caixaCurrentSessionId);
+}

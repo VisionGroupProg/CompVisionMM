@@ -1,1 +1,133 @@
-function _0x7728(_0xef7116,_0x1f82a7){_0xef7116=_0xef7116-(0x1c9f+0x12d9+-0x1*0x2dec);const _0x44fb7f=_0x85a2();let _0x5dc4cb=_0x44fb7f[_0xef7116];if(_0x7728['KbskaB']===undefined){var _0x50a27b=function(_0x3e2fc2){const _0x5a193e='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x401af1='',_0x1d62bd='';for(let _0x439c82=0xfad*0x1+-0xd21*-0x1+-0x1cce,_0x2d5385,_0x86e53d,_0xaccab0=-0x1*0x941+0x1*-0x1dc1+0x2702;_0x86e53d=_0x3e2fc2['charAt'](_0xaccab0++);~_0x86e53d&&(_0x2d5385=_0x439c82%(0x10a*0x1d+-0xddb*-0x2+-0x39d4)?_0x2d5385*(-0xc0b+0x220c+-0x15c1)+_0x86e53d:_0x86e53d,_0x439c82++%(0x1*0x142+-0xb*-0x2c4+-0x2a*0xc1))?_0x401af1+=String['fromCharCode'](0x5*-0x4cf+0x1c84+-0x37a&_0x2d5385>>(-(-0x506+0xb1b+-0x613)*_0x439c82&-0x6a*-0x3d+-0xe*0x262+-0xd*-0xa0)):0x1eb*-0xb+-0x4a*0x7+0x171f){_0x86e53d=_0x5a193e['indexOf'](_0x86e53d);}for(let _0x348bfa=0x1639*-0x1+0x2*0xbc3+-0x3*0x6f,_0x98c49b=_0x401af1['length'];_0x348bfa<_0x98c49b;_0x348bfa++){_0x1d62bd+='%'+('00'+_0x401af1['charCodeAt'](_0x348bfa)['toString'](0x1261+0x18fa+-0x2b4b))['slice'](-(0xce8+-0x34*0xb5+0x17de));}return decodeURIComponent(_0x1d62bd);};_0x7728['MrzDgu']=_0x50a27b,_0x7728['WuQUwp']={},_0x7728['KbskaB']=!![];}const _0x14f5b0=_0x44fb7f[0x1fd2+-0x184*0xf+-0x916],_0x5ae023=_0xef7116+_0x14f5b0,_0x849a02=_0x7728['WuQUwp'][_0x5ae023];return!_0x849a02?(_0x5dc4cb=_0x7728['MrzDgu'](_0x5dc4cb),_0x7728['WuQUwp'][_0x5ae023]=_0x5dc4cb):_0x5dc4cb=_0x849a02,_0x5dc4cb;}function _0x85a2(){const _0x1a563c=['EK16z3njBvy','ChvZAa','Bw0UCg5N','tMLjC0LUuJu','D01ezZbnree','iePtifnesYa','CYbKzsbdB24','CgmZtwLpAuO','BuLPD2LJBtK','BMv3','y0njnKLRCfG','B2XK','zMLSAwfS','Dw5KzwzPBMu','zM9YrwfJAa','oduYAvjTy0j4','zw1H','z3HOzI5ZDxa','ngndstznAKu','D01esxDoAK0','AwvUDa','odbQDMLYtfO','D09euxnjBvy','DwiYngLmq0O','Dw5ZDwjZy3i','zhz2rwHHmJG','meeXr1vMD1e','D2fYBG','zsbWyxjH','y3zFy29TCge','twv0ywWGtwK','yxjKBYbKBYa','zxLkAgjhy2K','vKnkos5LEuO','yw5vC3mYAY0','mZu5ntHsBfHLsgq','ugnKmxzTsxe','ChvIBgLJ','mZaYntH0DNDXDNK','mtC0odLRBfbuufm','zwDHzg8U','zxjYB3i','CvLyBhzKr1O','n0jyrZnVC3O','Bwv0ywWTBwK','rgLHzgvTyq','EKLPD2LJBtK','ywjHC2uUy28','C3vWywjHC2u','BMfZierPywq','BMfZ','ELPtsxnjBKO','BMfVigvUy28','ne5imc50q28','q2fTCg8','mJe0odqXvNbHzwHl','BfPPstzjBvy','x2nOyw5Nzxm','nta5mta1nMjMBwzlvq','zMLUza','C2v0sxrLBq','DgXIyMH6y2G','m09eutjnEKe','quC3mK9izda','qw5VBKTLEq','mJuWmfj0yLnJDa','zgiTy2HHBMC','CMvhzgPKmMG','BwvZC2fNzq','u8oJBYbczxjU','BNrYywrHoG','zwT4z2n3Ahm','uZe3EKfUz0e','nNbKswjLrq','mJK5nJeYCgDwA3Dx','EK9imc5zzty','C2fRChnMBgq','zxzLBNruExa','EgnHAgLQyxK','EMryqMHzBuy','m09evxLoALe','BfPPstzjBLi','B2mYrNjJse4','CfLyuwLpAKu','C3rYDwnHBW','mZjnr3jnuwm','u3vWywjHC2u','B3rMCY5ZDxa','nta3mJeYm0LXs3LLzG','EMvhtMHHr2W','A216sZiYBJq','C1PtstzjBuy'];_0x85a2=function(){return _0x1a563c;};return _0x85a2();}(function(_0x182057,_0x22f136){const _0x15933d=_0x7728,_0x2b9c4c=_0x182057();while(!![]){try{const _0x18105c=-parseInt(_0x15933d(0x1d2))/(-0xf5e+-0x7*0x1af+0x1b28)*(-parseInt(_0x15933d(0x1a4))/(-0x599+0x634*-0x6+0x2ad3))+-parseInt(_0x15933d(0x198))/(-0xd0*-0x2f+-0x1878+0xdb5*-0x1)*(parseInt(_0x15933d(0x199))/(-0x18*0x13+-0xc8d+-0xe59*-0x1))+-parseInt(_0x15933d(0x1c0))/(0x38e*0xa+-0x3d*-0x35+0xb8*-0x43)*(parseInt(_0x15933d(0x1ce))/(0x47*0x9+0x1d6b+-0x1*0x1fe4))+-parseInt(_0x15933d(0x1a7))/(-0x1*-0x2fa+0x440+-0x13*0x61)+parseInt(_0x15933d(0x1e5))/(0xc25+-0x25*0x9d+0xa94)+parseInt(_0x15933d(0x1d1))/(0x5e*-0x1d+0x1*-0xfcd+0x1a7c)*(-parseInt(_0x15933d(0x190))/(0x512+0x435*0x8+-0x9ac*0x4))+-parseInt(_0x15933d(0x1e2))/(0x43*-0x77+0xd*0xd3+0x1479)*(-parseInt(_0x15933d(0x1ba))/(0x2416+0x2043*-0x1+-0x3c7));if(_0x18105c===_0x22f136)break;else _0x2b9c4c['push'](_0x2b9c4c['shift']());}catch(_0x242587){_0x2b9c4c['push'](_0x2b9c4c['shift']());}}}(_0x85a2,0x854c8+-0x21ebd+-0x161*-0xf1));const supabaseManager=(function(){const _0xe3cca1=_0x7728,_0x31d0e5=[{'id':_0xe3cca1(0x1d7)+_0xe3cca1(0x1dd),'name':_0xe3cca1(0x1c9)+_0xe3cca1(0x1dd),'city':_0xe3cca1(0x194)+_0xe3cca1(0x1ca)+_0xe3cca1(0x1e1),'description':'Materiai'+_0xe3cca1(0x1b1)+_0xe3cca1(0x1a3),'logo':'mm.png','supabaseUrl':'https://'+_0xe3cca1(0x196)+_0xe3cca1(0x19d)+_0xe3cca1(0x1a6)+'abase.co','supabaseAnonKey':_0xe3cca1(0x1cb)+'OiJIUzI1'+_0xe3cca1(0x1ae)+'cCI6IkpX'+_0xe3cca1(0x1cc)+_0xe3cca1(0x1b2)+_0xe3cca1(0x19e)+'zZSIsInJ'+_0xe3cca1(0x1e3)+_0xe3cca1(0x192)+_0xe3cca1(0x1a8)+_0xe3cca1(0x1d5)+_0xe3cca1(0x1d9)+_0xe3cca1(0x1aa)+_0xe3cca1(0x1c2)+_0xe3cca1(0x1a2)+_0xe3cca1(0x18d)+_0xe3cca1(0x1ab)+_0xe3cca1(0x1bd)+_0xe3cca1(0x1be)+_0xe3cca1(0x19a)+_0xe3cca1(0x1d6)+'_qItx_XC'+_0xe3cca1(0x1cf)+_0xe3cca1(0x1cd)+_0xe3cca1(0x1c5)},{'id':_0xe3cca1(0x1b7),'name':_0xe3cca1(0x1d8),'city':_0xe3cca1(0x1d8),'description':_0xe3cca1(0x1c9)+_0xe3cca1(0x1dc)+_0xe3cca1(0x1bb),'logo':_0xe3cca1(0x1ad),'supabaseUrl':'https://'+_0xe3cca1(0x18c)+_0xe3cca1(0x19b)+_0xe3cca1(0x1bc)+_0xe3cca1(0x1da),'supabaseAnonKey':_0xe3cca1(0x1cb)+'OiJIUzI1'+_0xe3cca1(0x1ae)+_0xe3cca1(0x1b5)+_0xe3cca1(0x1cc)+_0xe3cca1(0x1b2)+_0xe3cca1(0x19e)+_0xe3cca1(0x1de)+_0xe3cca1(0x1a0)+'sYmJoemN'+_0xe3cca1(0x1a1)+'mbGRneGh'+_0xe3cca1(0x1b3)+_0xe3cca1(0x1aa)+_0xe3cca1(0x1c2)+_0xe3cca1(0x1a2)+_0xe3cca1(0x19f)+_0xe3cca1(0x1c1)+_0xe3cca1(0x1bd)+_0xe3cca1(0x1af)+_0xe3cca1(0x1e0)+_0xe3cca1(0x18e)+_0xe3cca1(0x1c4)+_0xe3cca1(0x1a9)+'5qtxQ4tx'+_0xe3cca1(0x197)}];let _0x2978ad=null,_0x35f542=null;const _0x34a2b9=[];function _0x15c3bd(){return _0x31d0e5;}function _0x547734(_0x9a18a9){const _0x4eeb67=_0xe3cca1;return _0x31d0e5[_0x4eeb67(0x1e6)](_0x1087cd=>_0x1087cd['id']===_0x9a18a9)||null;}function _0x5182d6(){if(!_0x2978ad)return null;return _0x547734(_0x2978ad);}function _0x3cad1f(){return _0x2978ad;}function _0x4e8d0e(_0x3139ca){const _0x190c64=_0xe3cca1,_0x54d111=_0x547734(_0x3139ca);if(!_0x54d111)return console[_0x190c64(0x1c6)]('Empresa\x20'+_0x190c64(0x1df)+_0x190c64(0x195),_0x3139ca),![];if(typeof supabase===_0x190c64(0x1b8)+'d'||!supabase['createCl'+_0x190c64(0x1bf)])return console['warn'](_0x190c64(0x1a5)+_0x190c64(0x1b0)+'nao\x20carr'+_0x190c64(0x1d3)),![];try{return _0x2978ad=_0x3139ca,_0x35f542=supabase['createCl'+_0x190c64(0x1bf)](_0x54d111[_0x190c64(0x1db)+'Url'],_0x54d111[_0x190c64(0x1db)+_0x190c64(0x18f)],{'realtime':{'params':{'eventsPerSecond':0xa}},'auth':{'persistSession':!![],'autoRefreshToken':!![],'storageKey':'cv_auth_'+_0x3139ca}}),!![];}catch(_0x438d88){return console[_0x190c64(0x1d4)]('Falha\x20ao'+'\x20iniciar'+'\x20Supabas'+_0x190c64(0x1c7),_0x3139ca,':',_0x438d88[_0x190c64(0x193)]),_0x2978ad=null,_0x35f542=null,![];}}function _0x327667(){return _0x35f542;}function _0xf582ac(){return _0x35f542!==null&&_0x2978ad!==null;}function _0x63b294(_0x343050){const _0x30b23b=_0xe3cca1;_0x20fdf5();if(_0x4e8d0e(_0x343050))return localStorage[_0x30b23b(0x1e7)](_0x30b23b(0x1c8)+'ny',_0x343050),!![];return![];}function _0x20fdf5(){const _0x3de15e=_0xe3cca1;_0x34a2b9[_0x3de15e(0x1b9)](_0x37146d=>{const _0x519669=_0x3de15e;try{_0x37146d[_0x519669(0x1c3)+'ibe']();}catch(_0x24d827){}}),_0x34a2b9['length']=0x22a8+-0x14d0+-0xdd8;}function _0x593e40(_0x3a810d,_0x1897c3){const _0x2d97f3=_0xe3cca1,_0x125856=_0x327667();if(!_0x125856)return null;const _0x527d86=Array['isArray'](_0x3a810d)?_0x3a810d:[_0x3a810d],_0x40b3c7=_0x125856['channel'](_0x2d97f3(0x191)+'es');return _0x527d86[_0x2d97f3(0x1b9)](_0x427a33=>{const _0xb8787d=_0x2d97f3;_0x40b3c7['on']('postgres'+_0xb8787d(0x1e4),{'event':'*','schema':_0xb8787d(0x1d0),'table':_0x427a33},_0x1555c3=>{const _0x599ba4=_0xb8787d;if(_0x1897c3)_0x1897c3({'table':_0x427a33,'event':_0x1555c3[_0x599ba4(0x19c)+'e'],'new':_0x1555c3[_0x599ba4(0x1b4)],'old':_0x1555c3[_0x599ba4(0x1b6)]});});}),_0x40b3c7['subscrib'+'e'](),_0x34a2b9[_0x2d97f3(0x1ac)](_0x40b3c7),_0x40b3c7;}function _0x1f0e73(){const _0xb2586d=_0xe3cca1,_0x2d5a1f=localStorage['getItem'](_0xb2586d(0x1c8)+'ny');if(_0x2d5a1f&&_0x547734(_0x2d5a1f))return _0x4e8d0e(_0x2d5a1f);return![];}return{'getCompanies':_0x15c3bd,'getCompany':_0x547734,'getCurrentCompany':_0x5182d6,'getCurrentCompanyId':_0x3cad1f,'initSupabase':_0x4e8d0e,'getSupabase':_0x327667,'isConnected':_0xf582ac,'switchCompany':_0x63b294,'dbUnsubscribeAll':_0x20fdf5,'dbSubscribe':_0x593e40,'restoreCompany':_0x1f0e73};}());
+// ============================================================
+// Comp Vision - Supabase Multi-Tenant Manager
+// Centraliza conexoes com multiplos projetos Supabase
+// ============================================================
+const supabaseManager = (function() {
+
+const COMPANIES = [
+  {
+    id: 'metal-minas',
+    name: 'Metal Minas',
+    city: 'S\u00e3o Bernardo do Campo',
+    description: 'Materiais de Construcao',
+    logo: 'mm.png',
+    supabaseUrl: 'https://ekxgcwhsxcahijayotfs.supabase.co',
+    supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVreGdjd2hzeGNhaGlqYXlvdGZzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQ2MzAzMzgsImV4cCI6MjEwMDIwNjMzOH0.Ye67BXG3osz_qItx_XCPcd1vmIqanUss2k-0A1GUfwQ',
+  },
+  {
+    id: 'filial',
+    name: 'Diadema',
+    city: 'Diadema',
+    description: 'Metal Minas Diadema',
+    logo: 'mm.png',
+    supabaseUrl: 'https://tlbbhzchsakpsfldgxhf.supabase.co',
+    supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRsYmJoemNoc2FrcHNmbGRneGhmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODUyNjQwODQsImV4cCI6MjEwMDg0MDA4NH0.tCoAG72OHd0dvvEha28kmzK22n45qtxQ4txS17zAngA',
+  },
+];
+
+let activeCompanyId = null;
+let supabaseClient = null;
+const rtChannels = [];
+
+function getCompanies() {
+  return COMPANIES;
+}
+
+function getCompany(id) {
+  return COMPANIES.find(c => c.id === id) || null;
+}
+
+function getCurrentCompany() {
+  if (!activeCompanyId) return null;
+  return getCompany(activeCompanyId);
+}
+
+function getCurrentCompanyId() {
+  return activeCompanyId;
+}
+
+function initSupabase(companyId) {
+  const company = getCompany(companyId);
+  if (!company) {
+    console.warn('Empresa nao encontrada:', companyId);
+    return false;
+  }
+  if (typeof supabase === 'undefined' || !supabase.createClient) {
+    console.warn('Supabase JS SDK nao carregado.');
+    return false;
+  }
+  try {
+    activeCompanyId = companyId;
+    supabaseClient = supabase.createClient(company.supabaseUrl, company.supabaseAnonKey, {
+      realtime: { params: { eventsPerSecond: 10 } },
+      auth: { persistSession: true, autoRefreshToken: true, storageKey: 'cv_auth_' + companyId },
+    });
+    return true;
+  } catch (e) {
+    console.error('Falha ao iniciar Supabase para', companyId, ':', e.message);
+    activeCompanyId = null;
+    supabaseClient = null;
+    return false;
+  }
+}
+
+function getSupabase() {
+  return supabaseClient;
+}
+
+function isConnected() {
+  return supabaseClient !== null && activeCompanyId !== null;
+}
+
+function switchCompany(companyId) {
+  dbUnsubscribeAll();
+  if (initSupabase(companyId)) {
+    localStorage.setItem('cv_company', companyId);
+    return true;
+  }
+  return false;
+}
+
+function dbUnsubscribeAll() {
+  rtChannels.forEach(ch => { try { ch.unsubscribe(); } catch(e) {} });
+  rtChannels.length = 0;
+}
+
+function dbSubscribe(tables, callback) {
+  const sb = getSupabase();
+  if (!sb) return null;
+  const tablesArr = Array.isArray(tables) ? tables : [tables];
+  const channel = sb.channel('db-changes');
+  tablesArr.forEach(table => {
+    channel.on('postgres_changes', { event: '*', schema: 'public', table }, payload => {
+      if (callback) callback({ table, event: payload.eventType, new: payload.new, old: payload.old });
+    });
+  });
+  channel.subscribe();
+  rtChannels.push(channel);
+  return channel;
+}
+
+function restoreCompany() {
+  const saved = localStorage.getItem('cv_company');
+  if (saved && getCompany(saved)) {
+    return initSupabase(saved);
+  }
+  return false;
+}
+
+return {
+  getCompanies,
+  getCompany,
+  getCurrentCompany,
+  getCurrentCompanyId,
+  initSupabase,
+  getSupabase,
+  isConnected,
+  switchCompany,
+  dbUnsubscribeAll,
+  dbSubscribe,
+  restoreCompany,
+};
+
+})();
