@@ -17,7 +17,6 @@ const CPV_PRINT_CSS = `
 .cpv-doc{color:#111;font-family:'Courier New',Courier,monospace}
 @media screen{.cpv-doc.bobina{width:270px}}
 .cpv-doc.bobina{max-width:100%;margin:0 auto;padding:4px 6px;font-size:11px;line-height:1.4;overflow-wrap:break-word;word-break:break-word}
-@media print{.cpv-doc.bobina{min-height:76mm}}
 .cpv-doc.bobina, .cpv-doc.bobina *{font-weight:700 !important;color:#000 !important}
 .cpv-doc .cpv-cancel-banner{border:2px solid #B91C1C;color:#B91C1C;text-align:center;font-weight:700;font-size:12px;padding:4px;margin-bottom:4px}
 .cpv-doc .cpv-cancel-info{text-align:center;font-size:10px;line-height:1.5;overflow-wrap:break-word;word-break:break-word}
@@ -77,12 +76,7 @@ const CPV_PRINT_CSS = `
 
 function cpvPageCss(formato) {
   if (formato === 'a4') return '@media print{@page{size:A4;margin:14mm}.cpv-doc.a4{width:100%}}';
-  // size:72mm auto -> a altura da página é calculada pelo próprio navegador
-  // com base no conteúdo real, sem depender de medição manual em JS.
-  // Isso evita qualquer descompasso entre o @page declarado e a altura
-  // real do comprovante, que é o que gera espaço em branco antes/depois
-  // do conteúdo em impressoras térmicas de bobina contínua.
-  return '@page{size:72mm auto;margin:0}@media print{html,body{margin:0 !important;padding:0 !important;height:auto !important}.cpv-doc.bobina{width:72mm;margin:0 !important}}';
+  return '@page{size:72mm 297mm;margin:0}@media print{html,body{margin:0;padding:0}.cpv-doc.bobina{width:72mm;margin:0 auto}}';
 }
 
 function gerarDocumentoCompra(p, formato, comEstilo) {
@@ -341,14 +335,18 @@ function imprimirHtml(html, formato) {
     if (!w) return;
     setTimeout(() => {
       try {
-        // A altura da página de bobina agora é resolvida pelo próprio
-        // @page{size:72mm auto} (definido em cpvPageCss). Antes, esse
-        // valor era recalculado aqui via JS medindo el.scrollHeight,
-        // dependendo de a imagem do logo e a fonte já estarem
-        // carregadas nesse exato instante — se a medição rodasse cedo
-        // demais, a página ficava com a altura fixa antiga (297mm),
-        // gerando espaço em branco antes/depois do comprovante.
-        // O CSS nativo elimina essa corrida por completo.
+        if (formato === 'bobina' && w.document && w.document.querySelector) {
+          const doc = w.document;
+          const el = doc.querySelector('.cpv-doc.bobina');
+          if (el && el.scrollHeight > 0) {
+            // Largura imprimível da i8 (72,1mm). Página sempre retrato: altura > largura.
+            // Mínimo de 76mm de altura para nunca ficar "deitada" mesmo em cupons curtos.
+            const hmm = Math.max(76, Math.ceil(el.scrollHeight / 96 * 25.4));
+            const st = doc.createElement('style');
+            st.textContent = '@page{size:72mm ' + (hmm + 4) + 'mm;margin:0}@media print{html,body{margin:0;padding:0}}';
+            doc.head.appendChild(st);
+          }
+        }
         w.focus(); w.print();
       } catch (e) { console.error('Erro ao imprimir:', e); }
     }, 100);
